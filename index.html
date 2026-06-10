@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Disney Lorcana Card Price Tracker</title>
+  <!-- Google Fonts: Cinzel for fantasy header, Outfit for modern clean body -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;800&family=Outfit:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <!-- Link external style.css -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="glow-bg"></div>
+  <div class="glow-bg-secondary"></div>
+
+  <div class="app-container">
+    <header class="app-header">
+      <h1 class="fantasy-title">Disney Lorcana</h1>
+      <p class="subtitle">Weekly Card Price Tracker & Market Analytics</p>
+      <div class="last-updated-badge">
+        <span class="pulse-dot"></span>
+        Last Updated: <span id="last-updated">Loading...</span>
+      </div>
+    </header>
+
+    <!-- Controls: Search & Main Tabs -->
+    <section class="controls-section">
+      <div class="search-wrapper">
+        <input type="text" id="search-input" placeholder="Search cards by name, version, set, or rarity..." aria-label="Search cards">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      <nav class="main-tabs" role="tablist">
+        <button class="tab-btn active" data-tab="regular" role="tab" aria-selected="true">🏆 Set Releases</button>
+        <button class="tab-btn" data-tab="promo" role="tab" aria-selected="false">🎟️ Promo Cards</button>
+        <button class="tab-btn" data-tab="enchanted" role="tab" aria-selected="false">💎 Enchanted by Set</button>
+      </nav>
+    </section>
+
+    <!-- Main Content Area -->
+    <main class="content-area">
+      <!-- Loading Indicator -->
+      <div id="loading" class="loading-state">
+        <div class="spinner"></div>
+        <p>Gathering ink and pulling card prices...</p>
+      </div>
+
+      <!-- Tab Content: Regular Release Top 10 -->
+      <div id="tab-regular" class="tab-content active">
+        <div class="grid-two-col">
+          <div class="category-panel">
+            <h2 class="panel-title">💵 Top 10 Standard (Non-Foil)</h2>
+            <div id="regular-standard-list" class="cards-grid"></div>
+          </div>
+          <div class="category-panel">
+            <h2 class="panel-title">✨ Top 10 Foil</h2>
+            <div id="regular-foil-list" class="cards-grid"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab Content: Promo Top 10 -->
+      <div id="tab-promo" class="tab-content">
+        <div class="grid-two-col">
+          <div class="category-panel">
+            <h2 class="panel-title">🎟️ Top 10 Standard Promo</h2>
+            <div id="promo-standard-list" class="cards-grid"></div>
+          </div>
+          <div class="category-panel">
+            <h2 class="panel-title">🌟 Top 10 Foil Promo</h2>
+            <div id="promo-foil-list" class="cards-grid"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab Content: Enchanted by Set -->
+      <div id="tab-enchanted" class="tab-content">
+        <div class="enchanted-selector-wrapper">
+          <label for="set-selector">Select Set:</label>
+          <select id="set-selector" aria-label="Select Lorcana Set">
+            <!-- Dynamically populated sets -->
+          </select>
+        </div>
+        <div class="category-panel full-width">
+          <h2 class="panel-title" id="enchanted-set-title">💎 Enchanted & Iconic Cards</h2>
+          <div id="enchanted-cards-list" class="cards-grid cards-grid-three"></div>
+        </div>
+      </div>
+
+      <!-- Search Results View (Hidden by default) -->
+      <div id="search-results-view" class="tab-content">
+        <div class="category-panel full-width">
+          <h2 class="panel-title">🔍 Search Results</h2>
+          <div id="search-results-list" class="cards-grid cards-grid-three"></div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="app-footer">
+      <p>Data provided by the free community <a href="https://lorcast.com" target="_blank" rel="noopener">Lorcast API</a>. Price values reflect current market pricing from TCGPlayer.</p>
+      <p class="copyright">Disney Lorcana is a registered trademark of Ravensburger & Disney. This tool is an unofficial fan project.</p>
+    </footer>
+  </div>
+
+  <!-- Image Modal Dialog -->
+  <div id="image-modal" class="modal" aria-hidden="true">
+    <button class="modal-close" id="modal-close-btn" aria-label="Close modal">&times;</button>
+    <div class="modal-content">
+      <img id="modal-img" src="" alt="High Resolution Card View">
+      <div class="modal-details">
+        <h3 id="modal-card-name">Card Name</h3>
+        <p id="modal-card-version">Version</p>
+        <p id="modal-card-meta">Set & Number</p>
+        <a id="modal-card-link" href="#" target="_blank" class="buy-btn large">Buy on TCGPlayer</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- App JavaScript Logic -->
+  <script>
+    let priceData = null;
+    let currentMainTab = 'regular';
+
+    // Elements
+    const loadingEl = document.getElementById('loading');
+    const searchInput = document.getElementById('search-input');
+    const setSelector = document.getElementById('set-selector');
+    const imageModal = document.getElementById('image-modal');
+    const modalImg = document.getElementById('modal-img');
+    const modalCloseBtn = document.getElementById('modal-close-btn');
+
+    // Init App
+    async function init() {
+      try {
+        const response = await fetch('./top_priced_cards.json');
+        if (!response.ok) {
+          throw new Error('Failed to fetch pricing JSON');
+        }
+        priceData = await response.json();
+        
+        // Hide loading
+        loadingEl.style.display = 'none';
+
+        // Update timestamp
+        document.getElementById('last-updated').textContent = new Date(priceData.timestamp).toLocaleString();
+
+        // Render sections
+        renderRegularLists();
+        renderPromoLists();
+        setupEnchantedSelector();
+
+        // Event Listeners
+        setupEventListeners();
+
+      } catch (err) {
+        console.error('Error loading data:', err);
+        loadingEl.innerHTML = `<p class="error-msg">❌ Error loading price data: ${err.message}. Please verify the files are pushed.</p>`;
+      }
+    }
+
+    // Set Up Event Listeners
+    function setupEventListeners() {
+      // Tab Switching
+      document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          const tabName = btn.getAttribute('data-tab');
+          switchTab(tabName);
+        });
+      });
+
+      // Search Handler
+      searchInput.addEventListener('input', (e) => {
+        handleSearch(e.target.value);
+      });
+
+      // Set Selector Handler
+      setSelector.addEventListener('change', (e) => {
+        renderEnchantedList(e.target.value);
+      });
+
+      // Modal Close
+      modalCloseBtn.addEventListener('click', closeModal);
+      imageModal.addEventListener('click', (e) => {
+        if (e.target === imageModal) closeModal();
+      });
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') closeModal();
+      });
+    }
+
+    // Switch Main Tabs
+    function switchTab(tabName) {
+      currentMainTab = tabName;
+      searchInput.value = ''; // Clear search when switching tabs
+
+      document.querySelectorAll('.tab-btn').forEach(btn => {
+        const active = btn.getAttribute('data-tab') === tabName;
+        btn.classList.toggle('active', active);
+        btn.setAttribute('aria-selected', active);
+      });
+
+      document.querySelectorAll('.tab-content').forEach(content => {
+        content.classList.toggle('active', content.id === `tab-${tabName}`);
+      });
+
+      document.getElementById('search-results-view').classList.remove('active');
+    }
+
+    // Create a Card DOM element
+    function createCardElement(card, index, type) {
+      const isFoil = type.toLowerCase().includes('foil');
+      const priceVal = isFoil ? card.usd_foil : card.usd;
+      const displayPrice = priceVal ? `$${priceVal.toFixed(2)}` : 'N/A';
+
+      const cardDiv = document.createElement('div');
+      cardDiv.className = `price-card ${isFoil ? 'foil-card' : ''}`;
+      
+      // Foil gradient shine animation styling
+      const shineMarkup = isFoil ? '<div class="foil-shine"></div>' : '';
+
+      cardDiv.innerHTML = `
+        ${shineMarkup}
+        <div class="rank-badge">${index + 1}</div>
+        <div class="card-img-container">
+          <img src="${card.image_url}" alt="${card.name}" loading="lazy" class="card-thumb">
+          <div class="img-overlay">👁️ View Image</div>
+        </div>
+        <div class="card-info">
+          <h3 class="card-name">${card.name}</h3>
+          <p class="card-version">${card.version}</p>
+          <div class="card-meta">
+            <span class="badge badge-set">${card.set_name} (#${card.collector_number})</span>
+            <span class="badge badge-rarity">${card.rarity}</span>
+          </div>
+          <div class="price-action">
+            <span class="card-price">${displayPrice} ${isFoil ? '<span class="foil-lbl">Foil</span>' : ''}</span>
+            <a href="${card.purchase_url}" target="_blank" rel="noopener" class="buy-btn">TCGPlayer</a>
+          </div>
+        </div>
+      `;
+
+      // Event listener for opening modal
+      cardDiv.querySelector('.card-img-container').addEventListener('click', () => {
+        openModal(card);
+      });
+
+      return cardDiv;
+    }
+
+    // Render Regular Lists
+    function renderRegularLists() {
+      const standardContainer = document.getElementById('regular-standard-list');
+      const foilContainer = document.getElementById('regular-foil-list');
+
+      standardContainer.innerHTML = '';
+      foilContainer.innerHTML = '';
+
+      priceData.regular.top_standard.forEach((card, index) => {
+        standardContainer.appendChild(createCardElement(card, index, 'standard'));
+      });
+
+      priceData.regular.top_foil.forEach((card, index) => {
+        foilContainer.appendChild(createCardElement(card, index, 'foil'));
+      });
+    }
+
+    // Render Promo Lists
+    function renderPromoLists() {
+      const standardContainer = document.getElementById('promo-standard-list');
+      const foilContainer = document.getElementById('promo-foil-list');
+
+      standardContainer.innerHTML = '';
+      foilContainer.innerHTML = '';
+
+      priceData.promotional.top_standard.forEach((card, index) => {
+        standardContainer.appendChild(createCardElement(card, index, 'standard'));
+      });
+
+      priceData.promotional.top_foil.forEach((card, index) => {
+        foilContainer.appendChild(createCardElement(card, index, 'foil'));
+      });
+    }
+
+    // Setup Enchanted Set Selector
+    function setupEnchantedSelector() {
+      setSelector.innerHTML = '';
+      
+      priceData.enchanted_by_set.forEach((setData) => {
+        const option = document.createElement('option');
+        option.value = setData.set_code;
+        option.textContent = `${setData.set_name} (${setData.set_code})`;
+        setSelector.appendChild(option);
+      });
+
+      // Render first set by default
+      if (priceData.enchanted_by_set.length > 0) {
+        renderEnchantedList(priceData.enchanted_by_set[0].set_code);
+      }
+    }
+
+    // Render Enchanted cards for a specific set
+    function renderEnchantedList(setCode) {
+      const container = document.getElementById('enchanted-cards-list');
+      container.innerHTML = '';
+
+      const setData = priceData.enchanted_by_set.find(s => s.set_code === setCode);
+      if (!setData) return;
+
+      document.getElementById('enchanted-set-title').textContent = `💎 ${setData.set_name} Enchanted & Iconic Cards`;
+
+      setData.cards.forEach((card, index) => {
+        container.appendChild(createCardElement(card, index, 'foil')); // Enchanted are always foil
+      });
+    }
+
+    // Search Logic
+    function handleSearch(query) {
+      const resultsView = document.getElementById('search-results-view');
+      const resultsList = document.getElementById('search-results-list');
+      
+      if (!query.trim()) {
+        resultsView.classList.remove('active');
+        switchTab(currentMainTab);
+        return;
+      }
+
+      // Hide all standard tabs
+      document.querySelectorAll('.tab-content').forEach(content => {
+        content.classList.remove('active');
+      });
+
+      resultsView.classList.add('active');
+      resultsList.innerHTML = '';
+
+      const lowerQuery = query.toLowerCase();
+      const matchedCards = [];
+
+      // Helper to add matches without duplicates
+      const addMatches = (cardsList) => {
+        cardsList.forEach(card => {
+          const nameMatch = card.name.toLowerCase().includes(lowerQuery);
+          const versionMatch = card.version.toLowerCase().includes(lowerQuery);
+          const rarityMatch = card.rarity.toLowerCase().includes(lowerQuery);
+          const setMatch = card.set_name.toLowerCase().includes(lowerQuery) || card.set_code.toLowerCase().includes(lowerQuery);
+          
+          if (nameMatch || versionMatch || rarityMatch || setMatch) {
+            if (!matchedCards.some(m => m.id === card.id && m.usd_foil === card.usd_foil && m.usd === card.usd)) {
+              matchedCards.push(card);
+            }
+          }
+        });
+      };
+
+      // Search regular, promo, and enchanted
+      addMatches(priceData.regular.top_standard);
+      addMatches(priceData.regular.top_foil);
+      addMatches(priceData.promotional.top_standard);
+      addMatches(priceData.promotional.top_foil);
+      priceData.enchanted_by_set.forEach(set => addMatches(set.cards));
+
+      if (matchedCards.length === 0) {
+        resultsList.innerHTML = `<p class="no-results">No cards found matching "${query}". Try searching for specific character names, versions, rarities, or set names.</p>`;
+        return;
+      }
+
+      // Sort matched cards by price descending
+      matchedCards.sort((a, b) => {
+        const aPrice = a.usd_foil !== null ? a.usd_foil : (a.usd || 0);
+        const bPrice = b.usd_foil !== null ? b.usd_foil : (b.usd || 0);
+        return bPrice - aPrice;
+      });
+
+      matchedCards.forEach((card, index) => {
+        const hasFoil = card.usd_foil !== null;
+        resultsList.appendChild(createCardElement(card, index, hasFoil ? 'foil' : 'standard'));
+      });
+    }
+
+    // Modal Operations
+    function openModal(card) {
+      modalImg.src = card.image_url;
+      document.getElementById('modal-card-name').textContent = card.name;
+      document.getElementById('modal-card-version').textContent = card.version || '';
+      document.getElementById('modal-card-meta').textContent = `${card.set_name} (#${card.collector_number}) • ${card.rarity}`;
+      
+      const linkBtn = document.getElementById('modal-card-link');
+      if (card.purchase_url) {
+        linkBtn.href = card.purchase_url;
+        linkBtn.style.display = 'inline-block';
+      } else {
+        linkBtn.style.display = 'none';
+      }
+
+      imageModal.classList.add('active');
+      imageModal.setAttribute('aria-hidden', 'false');
+      document.body.style.overflow = 'hidden'; // Lock background scrolling
+    }
+
+    // Modal Close
+    function closeModal() {
+      imageModal.classList.remove('active');
+      imageModal.setAttribute('aria-hidden', 'true');
+      document.body.style.overflow = ''; // Restore scrolling
+      setTimeout(() => {
+        modalImg.src = '';
+      }, 300);
+    }
+
+    // Boot
+    window.addEventListener('DOMContentLoaded', init);
+  </script>
+</body>
+</html>

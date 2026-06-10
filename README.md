@@ -9,6 +9,8 @@ To keep the lists useful, promotional/trophy cards (which have highly skewed col
 ## 📁 Project Structure
 - `package.json`: NodeJS ESM configuration.
 - `pull.js`: Sequential data fetching, price processing, sorting, and output generation.
+- `index.html`: Interactive web dashboard hosted on GitHub Pages.
+- `style.css`: Premium glassmorphic stylesheet for the web dashboard.
 - `top_priced_cards.md`: A beautiful, auto-generated Markdown report showing standard releases, foil releases, standard promos, and foil promos.
 - `top_priced_cards.json`: Structured raw data of the compiled rankings.
 
@@ -52,4 +54,4 @@ To run this automatically in the background of your Windows machine even when yo
 ---
 
 ## 🎨 Theme Version
-- **Theme Version**: 1.0.1
+- **Theme Version**: 1.0.2

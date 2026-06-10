@@ -1,8 +1,8 @@
 {
-  "name": "lorcana-price-puller",
+  "name": "tcg-price-finder",
   "version": "1.0.0",
   "type": "module",
-  "description": "Weekly Disney Lorcana card price puller",
+  "description": "Weekly Disney Lorcana and Riftbound TCG card price puller",
   "main": "pull.js",
   "scripts": {
     "start": "node pull.js"

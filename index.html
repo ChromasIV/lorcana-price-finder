@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Disney Lorcana Card Price Tracker</title>
+  <title>TCG Price Finder</title>
   <!-- Google Fonts: Cinzel for fantasy header, Outfit for modern clean body -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -11,14 +11,21 @@
   <!-- Link external style.css -->
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="theme-lorcana">
   <div class="glow-bg"></div>
   <div class="glow-bg-secondary"></div>
 
   <div class="app-container">
     <header class="app-header">
-      <h1 class="fantasy-title">Disney Lorcana</h1>
-      <p class="subtitle">Weekly Card Price Tracker & Market Analytics</p>
+      <h1 class="fantasy-title" id="app-title">TCG Price Finder</h1>
+      <p class="subtitle" id="app-subtitle">Weekly Card Price Tracker & Market Analytics</p>
+      
+      <!-- Game Selection Toggle -->
+      <div class="game-toggle-container">
+        <button class="game-toggle-btn active" data-game="lorcana">🌀 Disney Lorcana</button>
+        <button class="game-toggle-btn" data-game="riftbound">⚡ Riftbound TCG</button>
+      </div>
+
       <div class="last-updated-badge">
         <span class="pulse-dot"></span>
         Last Updated: <span id="last-updated">Loading...</span>
@@ -35,7 +42,7 @@
       <nav class="main-tabs" role="tablist">
         <button class="tab-btn active" data-tab="regular" role="tab" aria-selected="true">🏆 Set Releases</button>
         <button class="tab-btn" data-tab="promo" role="tab" aria-selected="false">🎟️ Promo Cards</button>
-        <button class="tab-btn" data-tab="enchanted" role="tab" aria-selected="false">💎 Enchanted by Set</button>
+        <button class="tab-btn" data-tab="enchanted" role="tab" aria-selected="false" id="chase-tab-title">💎 Enchanted Cards</button>
       </nav>
     </section>
 
@@ -51,11 +58,11 @@
       <div id="tab-regular" class="tab-content active">
         <div class="grid-two-col">
           <div class="category-panel">
-            <h2 class="panel-title">💵 Top 10 Standard (Non-Foil)</h2>
+            <h2 class="panel-title" id="reg-std-title">💵 Top 10 Standard (Non-Foil)</h2>
             <div id="regular-standard-list" class="cards-grid"></div>
           </div>
           <div class="category-panel">
-            <h2 class="panel-title">✨ Top 10 Foil</h2>
+            <h2 class="panel-title" id="reg-foil-title">✨ Top 10 Foil</h2>
             <div id="regular-foil-list" class="cards-grid"></div>
           </div>
         </div>
@@ -65,21 +72,21 @@
       <div id="tab-promo" class="tab-content">
         <div class="grid-two-col">
           <div class="category-panel">
-            <h2 class="panel-title">🎟️ Top 10 Standard Promo</h2>
+            <h2 class="panel-title" id="promo-std-title">🎟️ Top 10 Standard Promo</h2>
             <div id="promo-standard-list" class="cards-grid"></div>
           </div>
           <div class="category-panel">
-            <h2 class="panel-title">🌟 Top 10 Foil Promo</h2>
+            <h2 class="panel-title" id="promo-foil-title">🌟 Top 10 Foil Promo</h2>
             <div id="promo-foil-list" class="cards-grid"></div>
           </div>
         </div>
       </div>
 
-      <!-- Tab Content: Enchanted by Set -->
+      <!-- Tab Content: Enchanted / Showcase by Set -->
       <div id="tab-enchanted" class="tab-content">
         <div class="enchanted-selector-wrapper">
-          <label for="set-selector">Select Set:</label>
-          <select id="set-selector" aria-label="Select Lorcana Set">
+          <label for="set-selector" id="set-select-label">Select Set:</label>
+          <select id="set-selector" aria-label="Select Set">
             <!-- Dynamically populated sets -->
           </select>
         </div>
@@ -99,8 +106,8 @@
     </main>
 
     <footer class="app-footer">
-      <p>Data provided by the free community <a href="https://lorcast.com" target="_blank" rel="noopener">Lorcast API</a>. Price values reflect current market pricing from TCGPlayer.</p>
-      <p class="copyright">Disney Lorcana is a registered trademark of Ravensburger & Disney. This tool is an unofficial fan project.</p>
+      <p>Data provided by free community APIs (<a href="https://lorcast.com" target="_blank" rel="noopener">Lorcast</a> & <a href="https://tcgcsv.com" target="_blank" rel="noopener">TCGCSV</a>). Price values reflect current market pricing from TCGPlayer.</p>
+      <p class="copyright">All trademarks, card names, and images are property of their respective owners (Disney/Ravensburger & Riot Games/UVS Games).</p>
     </footer>
   </div>
 
@@ -121,6 +128,7 @@
   <!-- App JavaScript Logic -->
   <script>
     let priceData = null;
+    let currentGame = 'lorcana';
     let currentMainTab = 'regular';
 
     // Elements
@@ -130,6 +138,7 @@
     const imageModal = document.getElementById('image-modal');
     const modalImg = document.getElementById('modal-img');
     const modalCloseBtn = document.getElementById('modal-close-btn');
+    const chaseTabTitle = document.getElementById('chase-tab-title');
 
     // Init App
     async function init() {
@@ -146,10 +155,8 @@
         // Update timestamp
         document.getElementById('last-updated').textContent = new Date(priceData.timestamp).toLocaleString();
 
-        // Render sections
-        renderRegularLists();
-        renderPromoLists();
-        setupEnchantedSelector();
+        // Render sections for default game (lorcana)
+        updateGameView();
 
         // Event Listeners
         setupEventListeners();
@@ -162,6 +169,30 @@
 
     // Set Up Event Listeners
     function setupEventListeners() {
+      // Game Toggle
+      document.querySelectorAll('.game-toggle-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          const game = btn.getAttribute('data-game');
+          if (game !== currentGame) {
+            currentGame = game;
+            
+            // Toggle active classes
+            document.querySelectorAll('.game-toggle-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            
+            // Toggle theme on body
+            document.body.className = `theme-${currentGame}`;
+
+            // Reset search and tab
+            searchInput.value = '';
+            switchTab('regular');
+
+            // Render view for the selected game
+            updateGameView();
+          }
+        });
+      });
+
       // Tab Switching
       document.querySelectorAll('.tab-btn').forEach(btn => {
         btn.addEventListener('click', (e) => {
@@ -188,6 +219,19 @@
       document.addEventListener('keydown', (e) => {
         if (e.key === 'Escape') closeModal();
       });
+    }
+
+    // Update Game View
+    function updateGameView() {
+      if (currentGame === 'lorcana') {
+        chaseTabTitle.textContent = '💎 Enchanted Cards';
+      } else {
+        chaseTabTitle.textContent = '💎 Showcase & Signature';
+      }
+      
+      renderRegularLists();
+      renderPromoLists();
+      setupSetSelector();
     }
 
     // Switch Main Tabs
@@ -257,11 +301,13 @@
       standardContainer.innerHTML = '';
       foilContainer.innerHTML = '';
 
-      priceData.regular.top_standard.forEach((card, index) => {
+      const listSource = priceData[currentGame].regular;
+
+      listSource.top_standard.forEach((card, index) => {
         standardContainer.appendChild(createCardElement(card, index, 'standard'));
       });
 
-      priceData.regular.top_foil.forEach((card, index) => {
+      listSource.top_foil.forEach((card, index) => {
         foilContainer.appendChild(createCardElement(card, index, 'foil'));
       });
     }
@@ -274,20 +320,26 @@
       standardContainer.innerHTML = '';
       foilContainer.innerHTML = '';
 
-      priceData.promotional.top_standard.forEach((card, index) => {
+      const listSource = priceData[currentGame].promotional;
+
+      listSource.top_standard.forEach((card, index) => {
         standardContainer.appendChild(createCardElement(card, index, 'standard'));
       });
 
-      priceData.promotional.top_foil.forEach((card, index) => {
+      listSource.top_foil.forEach((card, index) => {
         foilContainer.appendChild(createCardElement(card, index, 'foil'));
       });
     }
 
-    // Setup Enchanted Set Selector
-    function setupEnchantedSelector() {
+    // Setup Set Selector
+    function setupSetSelector() {
       setSelector.innerHTML = '';
       
-      priceData.enchanted_by_set.forEach((setData) => {
+      const setsSource = currentGame === 'lorcana' 
+        ? priceData.lorcana.enchanted_by_set 
+        : priceData.riftbound.showcase_by_set;
+
+      setsSource.forEach((setData) => {
         const option = document.createElement('option');
         option.value = setData.set_code;
         option.textContent = `${setData.set_name} (${setData.set_code})`;
@@ -295,23 +347,31 @@
       });
 
       // Render first set by default
-      if (priceData.enchanted_by_set.length > 0) {
-        renderEnchantedList(priceData.enchanted_by_set[0].set_code);
+      if (setsSource.length > 0) {
+        renderEnchantedList(setsSource[0].set_code);
+      } else {
+        document.getElementById('enchanted-cards-list').innerHTML = '<p class="no-results">No sets containing premium cards found.</p>';
       }
     }
 
-    // Render Enchanted cards for a specific set
+    // Render Enchanted/Showcase cards for a specific set
     function renderEnchantedList(setCode) {
       const container = document.getElementById('enchanted-cards-list');
       container.innerHTML = '';
 
-      const setData = priceData.enchanted_by_set.find(s => s.set_code === setCode);
+      const setsSource = currentGame === 'lorcana' 
+        ? priceData.lorcana.enchanted_by_set 
+        : priceData.riftbound.showcase_by_set;
+
+      const setData = setsSource.find(s => s.set_code === setCode);
       if (!setData) return;
 
-      document.getElementById('enchanted-set-title').textContent = `💎 ${setData.set_name} Enchanted & Iconic Cards`;
+      const titlePrefix = currentGame === 'lorcana' ? '💎' : '💎';
+      const rarityLabel = currentGame === 'lorcana' ? 'Enchanted & Iconic Cards' : 'Showcase & Signature Cards';
+      document.getElementById('enchanted-set-title').textContent = `${titlePrefix} ${setData.set_name} ${rarityLabel}`;
 
       setData.cards.forEach((card, index) => {
-        container.appendChild(createCardElement(card, index, 'foil')); // Enchanted are always foil
+        container.appendChild(createCardElement(card, index, 'foil')); // Enchanted/Showcase are always foil
       });
     }
 
@@ -353,12 +413,17 @@
         });
       };
 
-      // Search regular, promo, and enchanted
-      addMatches(priceData.regular.top_standard);
-      addMatches(priceData.regular.top_foil);
-      addMatches(priceData.promotional.top_standard);
-      addMatches(priceData.promotional.top_foil);
-      priceData.enchanted_by_set.forEach(set => addMatches(set.cards));
+      const gameData = priceData[currentGame];
+
+      // Search regular and promo lists
+      addMatches(gameData.regular.top_standard);
+      addMatches(gameData.regular.top_foil);
+      addMatches(gameData.promotional.top_standard);
+      addMatches(gameData.promotional.top_foil);
+      
+      // Search chase cards
+      const chaseSets = currentGame === 'lorcana' ? gameData.enchanted_by_set : gameData.showcase_by_set;
+      chaseSets.forEach(set => addMatches(set.cards));
 
       if (matchedCards.length === 0) {
         resultsList.innerHTML = `<p class="no-results">No cards found matching "${query}". Try searching for specific character names, versions, rarities, or set names.</p>`;

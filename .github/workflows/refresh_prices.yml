@@ -1,0 +1,35 @@
+name: Refresh Prices
+
+on:
+  schedule:
+    - cron: '0 9 * * *' # Runs daily at 9:00 AM UTC
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions UI
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to commit and push changes back
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Run price puller
+        run: node pull.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add top_priced_cards.json top_priced_cards.md
+          if git diff --quiet top_priced_cards.json top_priced_cards.md; then
+            echo "No changes detected in prices."
+          else
+            git commit -m "chore: auto-refresh prices [skip ci]"
+            git push
+          fi

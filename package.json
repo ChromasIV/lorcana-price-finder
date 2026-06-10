@@ -1,0 +1,10 @@
+{
+  "name": "lorcana-price-puller",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Weekly Disney Lorcana card price puller",
+  "main": "pull.js",
+  "scripts": {
+    "start": "node pull.js"
+  }
+}

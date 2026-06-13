@@ -54,4 +54,4 @@ To run this automatically in the background of your Windows machine even when yo
 ---
 
 ## 🎨 Theme Version
-- **Theme Version**: 1.0.3
+- **Theme Version**: 1.0.4

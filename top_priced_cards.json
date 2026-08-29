@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-28T20:27:49.114Z",
+  "timestamp": "2026-08-29T14:03:17.703Z",
   "lorcana": {
     "regular": {
       "top_standard": [
@@ -10,7 +10,7 @@
           "rarity": "Legendary",
           "set_code": "9",
           "set_name": "Fabled",
-          "usd": 59.77,
+          "usd": 60.48,
           "usd_foil": 62.09,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_535bf9178837443f894f45d8c71045a0.avif?1755540368",
           "purchase_url": "https://www.tcgplayer.com/product/647680",
@@ -23,8 +23,8 @@
           "rarity": "Legendary",
           "set_code": "10",
           "set_name": "Whispers in the Well",
-          "usd": 43.52,
-          "usd_foil": 42.4,
+          "usd": 44.25,
+          "usd_foil": 42.86,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_a6116dcba33643b9a31897960a2267f1.avif?1761752185",
           "purchase_url": "https://www.tcgplayer.com/product/657887",
           "collector_number": "55"
@@ -36,8 +36,8 @@
           "rarity": "Legendary",
           "set_code": "11",
           "set_name": "Winterspell",
-          "usd": 37.82,
-          "usd_foil": 48.33,
+          "usd": 37.68,
+          "usd_foil": 48.37,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_e4d3bcc244e44eefae088a4970acffc5.avif?1770260055",
           "purchase_url": "https://www.tcgplayer.com/product/673311",
           "collector_number": "191"
@@ -49,8 +49,8 @@
           "rarity": "Legendary",
           "set_code": "11",
           "set_name": "Winterspell",
-          "usd": 34.5,
-          "usd_foil": 37.52,
+          "usd": 34.22,
+          "usd_foil": 38.1,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_7d2a989b37854bd5ac05ab0ee4bf086e.avif?1770259296",
           "purchase_url": "https://www.tcgplayer.com/product/673297",
           "collector_number": "22"
@@ -62,7 +62,7 @@
           "rarity": "Legendary",
           "set_code": "10",
           "set_name": "Whispers in the Well",
-          "usd": 32.65,
+          "usd": 32.2,
           "usd_foil": 33.71,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_d4514592d27b40cca5821f510aea2db2.avif?1761752189",
           "purchase_url": "https://www.tcgplayer.com/product/658329",
@@ -75,7 +75,7 @@
           "rarity": "Legendary",
           "set_code": "9",
           "set_name": "Fabled",
-          "usd": 26.52,
+          "usd": 26.44,
           "usd_foil": 39.33,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_e573fd1307ec42b6b2dbd9ebb94504f0.avif?1755651363",
           "purchase_url": "https://www.tcgplayer.com/product/649225",
@@ -88,8 +88,8 @@
           "rarity": "Legendary",
           "set_code": "11",
           "set_name": "Winterspell",
-          "usd": 23.94,
-          "usd_foil": 30.82,
+          "usd": 24.1,
+          "usd_foil": 30.3,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_b1aa36e48c8e4041b07e30efb7837fa3.avif?1770259344",
           "purchase_url": "https://www.tcgplayer.com/product/673067",
           "collector_number": "32"
@@ -101,7 +101,7 @@
           "rarity": "Legendary",
           "set_code": "10",
           "set_name": "Whispers in the Well",
-          "usd": 15.66,
+          "usd": 15.58,
           "usd_foil": 36.67,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_31e94039c2494d31b8966443911b0fb2.avif?1761764547",
           "purchase_url": "https://www.tcgplayer.com/product/658344",
@@ -114,7 +114,7 @@
           "rarity": "Legendary",
           "set_code": "1",
           "set_name": "The First Chapter",
-          "usd": 15.28,
+          "usd": 15.24,
           "usd_foil": 39.63,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_63a9a93217614c00a186fe10b8791073.avif?1709690747",
           "purchase_url": "https://www.tcgplayer.com/product/506836",
@@ -309,19 +309,6 @@
           "collector_number": "6"
         },
         {
-          "id": "crd_bd1327a61be84346b595f07ccf1df0e6",
-          "name": "Let It Go",
-          "version": "N/A",
-          "rarity": "Promo",
-          "set_code": "C2",
-          "set_name": "Lorcana Challenge Year 3",
-          "usd": 122.93,
-          "usd_foil": null,
-          "image_url": "https://cards.lorcast.io/card/digital/normal/crd_bd1327a61be84346b595f07ccf1df0e6.avif?1776533283",
-          "purchase_url": "https://www.tcgplayer.com/product/672385",
-          "collector_number": "10"
-        },
-        {
           "id": "crd_456c21b5683c4664b61f948401b48f31",
           "name": "Anna",
           "version": "Braving the Storm",
@@ -333,6 +320,19 @@
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_456c21b5683c4664b61f948401b48f31.avif?1745500407",
           "purchase_url": "https://www.tcgplayer.com/product/636354",
           "collector_number": "17"
+        },
+        {
+          "id": "crd_bd1327a61be84346b595f07ccf1df0e6",
+          "name": "Let It Go",
+          "version": "N/A",
+          "rarity": "Promo",
+          "set_code": "C2",
+          "set_name": "Lorcana Challenge Year 3",
+          "usd": 119.49,
+          "usd_foil": null,
+          "image_url": "https://cards.lorcast.io/card/digital/normal/crd_bd1327a61be84346b595f07ccf1df0e6.avif?1776533283",
+          "purchase_url": "https://www.tcgplayer.com/product/672385",
+          "collector_number": "10"
         },
         {
           "id": "crd_e81b8a65eb1f4006a70ca1cc89adc3b2",
@@ -367,7 +367,7 @@
           "rarity": "Promo",
           "set_code": "C2",
           "set_name": "Lorcana Challenge Year 3",
-          "usd": 87.62,
+          "usd": 84.8,
           "usd_foil": 725,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_1cf3dd6de9ac4bc6b0a1ef39f7e6085f.avif?1776533270",
           "purchase_url": "https://www.tcgplayer.com/product/655963",
@@ -408,7 +408,7 @@
           "rarity": "Promo",
           "set_code": "cp",
           "set_name": "Challenge Promo",
-          "usd": 64.62,
+          "usd": 60.54,
           "usd_foil": 10000,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_361b2bbfc70b4eb5a934fc18f4653371.avif?1755566144",
           "purchase_url": "https://www.tcgplayer.com/product/595439",
@@ -473,7 +473,7 @@
           "rarity": "Promo",
           "set_code": "cp",
           "set_name": "Challenge Promo",
-          "usd": 57.27,
+          "usd": 56.19,
           "usd_foil": 3000,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_0fadff61937844e19a88aa608af3392c.avif?1755566078",
           "purchase_url": "https://www.tcgplayer.com/product/595438",
@@ -559,7 +559,7 @@
             "set_code": "1",
             "set_name": "The First Chapter",
             "usd": null,
-            "usd_foil": 363.54,
+            "usd_foil": 364.83,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_5739e1f6076840cd901a1bc283ca6e96.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/510154",
             "collector_number": "208"
@@ -637,7 +637,7 @@
             "set_code": "1",
             "set_name": "The First Chapter",
             "usd": null,
-            "usd_foil": 181.4,
+            "usd_foil": 176.52,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_1a8604b7ba6c45e2bc8b32b0a70d08b5.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/510156",
             "collector_number": "210"
@@ -708,7 +708,7 @@
             "set_code": "2",
             "set_name": "Rise of the Floodborn",
             "usd": null,
-            "usd_foil": 267.72,
+            "usd_foil": 267.22,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_4cf391db31ba468f948bad5a20b0bc16.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/527802",
             "collector_number": "205"
@@ -721,7 +721,7 @@
             "set_code": "2",
             "set_name": "Rise of the Floodborn",
             "usd": null,
-            "usd_foil": 159.2,
+            "usd_foil": 160.77,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_3f0711ce8e06486a8bde68218e75d360.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/528111",
             "collector_number": "213"
@@ -747,7 +747,7 @@
             "set_code": "2",
             "set_name": "Rise of the Floodborn",
             "usd": null,
-            "usd_foil": 75.5,
+            "usd_foil": 74.92,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_458325805fc445799aabfe4c4046f89b.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/527800",
             "collector_number": "210"
@@ -838,7 +838,7 @@
             "set_code": "2",
             "set_name": "Rise of the Floodborn",
             "usd": null,
-            "usd_foil": 41.22,
+            "usd_foil": 41.7,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_8b02499c992945e2990cb669d7468256.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/527798",
             "collector_number": "216"
@@ -870,7 +870,7 @@
             "set_code": "3",
             "set_name": "Into the Inklands",
             "usd": null,
-            "usd_foil": 144.41,
+            "usd_foil": 151.13,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_51bf217683f54e1bb4e6835392851031.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/539276",
             "collector_number": "220"
@@ -909,7 +909,7 @@
             "set_code": "3",
             "set_name": "Into the Inklands",
             "usd": null,
-            "usd_foil": 77.73,
+            "usd_foil": 78.53,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_7c5be60911d844b48189f3a042abdcfa.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/539164",
             "collector_number": "212"
@@ -948,7 +948,7 @@
             "set_code": "3",
             "set_name": "Into the Inklands",
             "usd": null,
-            "usd_foil": 65.45,
+            "usd_foil": 65.97,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_40690491af114f2e810a6fd1c6ddcafa.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/539159",
             "collector_number": "209"
@@ -1013,7 +1013,7 @@
             "set_code": "3",
             "set_name": "Into the Inklands",
             "usd": null,
-            "usd_foil": 60.35,
+            "usd_foil": 60.93,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_266d7d17b42a44be9472057e4e6dd1b1.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/539166",
             "collector_number": "214"
@@ -1091,7 +1091,7 @@
             "set_code": "3",
             "set_name": "Into the Inklands",
             "usd": null,
-            "usd_foil": 24.44,
+            "usd_foil": 24.53,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_c9f08696c3cd44bf96e2a149bb3cfb12.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/539169",
             "collector_number": "219"
@@ -1110,7 +1110,7 @@
             "set_code": "4",
             "set_name": "Ursula's Return",
             "usd": null,
-            "usd_foil": 187.42,
+            "usd_foil": 187.26,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_94501fb9ecad49e9a81cd51f7c31dac7.avif?1716052430",
             "purchase_url": "https://www.tcgplayer.com/product/550549",
             "collector_number": "220"
@@ -1227,7 +1227,7 @@
             "set_code": "4",
             "set_name": "Ursula's Return",
             "usd": null,
-            "usd_foil": 63.11,
+            "usd_foil": 62.68,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_45acf301d7e2469fb961cc1f06bd2889.avif?1716052430",
             "purchase_url": "https://www.tcgplayer.com/product/551943",
             "collector_number": "210"
@@ -1350,7 +1350,7 @@
             "set_code": "5",
             "set_name": "Shimmering Skies",
             "usd": null,
-            "usd_foil": 382.86,
+            "usd_foil": 381.66,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_ca78ff510359490a862b871b577a5fec.avif?1723917209",
             "purchase_url": "https://www.tcgplayer.com/product/562021",
             "collector_number": "217"
@@ -1519,7 +1519,7 @@
             "set_code": "5",
             "set_name": "Shimmering Skies",
             "usd": null,
-            "usd_foil": 50.63,
+            "usd_foil": 50.2,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_9c2a04a39aee4b989bf2b1f18bf923ba.avif?1723917209",
             "purchase_url": "https://www.tcgplayer.com/product/561995",
             "collector_number": "218"
@@ -1590,7 +1590,7 @@
             "set_code": "6",
             "set_name": "Azurite Sea",
             "usd": null,
-            "usd_foil": 162.92,
+            "usd_foil": 163.59,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_865641f3cac34a65a36bb2404f4e39dd.avif?1730901319",
             "purchase_url": "https://www.tcgplayer.com/product/592037",
             "collector_number": "215"
@@ -1785,7 +1785,7 @@
             "set_code": "6",
             "set_name": "Azurite Sea",
             "usd": null,
-            "usd_foil": 30.8,
+            "usd_foil": 30.85,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_66c2f5fd704b45bdbe79f585ac31d6fc.avif?1730901319",
             "purchase_url": "https://www.tcgplayer.com/product/592034",
             "collector_number": "210"
@@ -1830,7 +1830,7 @@
             "set_code": "7",
             "set_name": "Archazia's Island",
             "usd": null,
-            "usd_foil": 253.16,
+            "usd_foil": 263.75,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_ec8ba95c2c20470ab00ef4f03c8db8ee.avif?1740590363",
             "purchase_url": "https://www.tcgplayer.com/product/619749",
             "collector_number": "221"
@@ -1921,7 +1921,7 @@
             "set_code": "7",
             "set_name": "Archazia's Island",
             "usd": null,
-            "usd_foil": 103.23,
+            "usd_foil": 101.47,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_1cda76d2cbe84ccda25bd2dc1b21844b.avif?1740590311",
             "purchase_url": "https://www.tcgplayer.com/product/619738",
             "collector_number": "210"
@@ -2070,7 +2070,7 @@
             "set_code": "8",
             "set_name": "Reign of Jafar",
             "usd": null,
-            "usd_foil": 383.96,
+            "usd_foil": 389.16,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_1a6358dd0385477eb83213749cb5d38f.avif?1747509587",
             "purchase_url": "https://www.tcgplayer.com/product/633104",
             "collector_number": "220"
@@ -2083,7 +2083,7 @@
             "set_code": "8",
             "set_name": "Reign of Jafar",
             "usd": null,
-            "usd_foil": 352.6,
+            "usd_foil": 354.52,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_a288e4ad2fa24cadada391a6d1896d9c.avif?1747509548",
             "purchase_url": "https://www.tcgplayer.com/product/631992",
             "collector_number": "208"
@@ -2096,7 +2096,7 @@
             "set_code": "8",
             "set_name": "Reign of Jafar",
             "usd": null,
-            "usd_foil": 299.15,
+            "usd_foil": 306.49,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_1f6ec070467643d195c82c92cf93c955.avif?1747703590",
             "purchase_url": "https://www.tcgplayer.com/product/632720",
             "collector_number": "213"
@@ -2135,7 +2135,7 @@
             "set_code": "8",
             "set_name": "Reign of Jafar",
             "usd": null,
-            "usd_foil": 185.71,
+            "usd_foil": 186.11,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_a8b66e0b4abe48f58f9c47dc25593197.avif?1747509592",
             "purchase_url": "https://www.tcgplayer.com/product/633098",
             "collector_number": "221"
@@ -2161,7 +2161,7 @@
             "set_code": "8",
             "set_name": "Reign of Jafar",
             "usd": null,
-            "usd_foil": 143.33,
+            "usd_foil": 143.31,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_4ea909f6818d4776ae936aa51aed88b8.avif?1747509578",
             "purchase_url": "https://www.tcgplayer.com/product/632228",
             "collector_number": "218"
@@ -2174,7 +2174,7 @@
             "set_code": "8",
             "set_name": "Reign of Jafar",
             "usd": null,
-            "usd_foil": 127.56,
+            "usd_foil": 128.88,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_7f8ab8154a444fb69a3eed9c7647b623.avif?1747703583",
             "purchase_url": "https://www.tcgplayer.com/product/632245",
             "collector_number": "210"
@@ -2213,7 +2213,7 @@
             "set_code": "8",
             "set_name": "Reign of Jafar",
             "usd": null,
-            "usd_foil": 84.4,
+            "usd_foil": 87.22,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_0a53330fb9424adcab9e92d04aa428a0.avif?1748996315",
             "purchase_url": "https://www.tcgplayer.com/product/632251",
             "collector_number": "215"
@@ -2349,7 +2349,7 @@
             "set_code": "9",
             "set_name": "Fabled",
             "usd": null,
-            "usd_foil": 677.79,
+            "usd_foil": 689.71,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_d72f9b00497a4ff0ac7ddb0f85da659d.avif?1755541586",
             "purchase_url": "https://www.tcgplayer.com/product/651112",
             "collector_number": "231"
@@ -2440,7 +2440,7 @@
             "set_code": "9",
             "set_name": "Fabled",
             "usd": null,
-            "usd_foil": 298.96,
+            "usd_foil": 298.27,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_c233fd3627b24b02bd616aa62bbdc83a.avif?1755541543",
             "purchase_url": "https://www.tcgplayer.com/product/651110",
             "collector_number": "223"
@@ -2466,7 +2466,7 @@
             "set_code": "9",
             "set_name": "Fabled",
             "usd": null,
-            "usd_foil": 269.4,
+            "usd_foil": 266.17,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_8016f590ebb344a2934d76f614fedbba.avif?1755541547",
             "purchase_url": "https://www.tcgplayer.com/product/651122",
             "collector_number": "224"
@@ -2479,7 +2479,7 @@
             "set_code": "9",
             "set_name": "Fabled",
             "usd": null,
-            "usd_foil": 259.94,
+            "usd_foil": 261.06,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_be9c85638bda44878c44cf4cc7e7cfb0.avif?1755541595",
             "purchase_url": "https://www.tcgplayer.com/product/649231",
             "collector_number": "233"
@@ -2505,7 +2505,7 @@
             "set_code": "9",
             "set_name": "Fabled",
             "usd": null,
-            "usd_foil": 229.02,
+            "usd_foil": 231.95,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_b5087f60fdf4442686a00fb4243fcf48.avif?1755541581",
             "purchase_url": "https://www.tcgplayer.com/product/651113",
             "collector_number": "230"
@@ -2518,7 +2518,7 @@
             "set_code": "9",
             "set_name": "Fabled",
             "usd": null,
-            "usd_foil": 202.72,
+            "usd_foil": 203.93,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_f5d62175b09243eda1bf9f34ea01d884.avif?1755541611",
             "purchase_url": "https://www.tcgplayer.com/product/651120",
             "collector_number": "236"
@@ -2544,7 +2544,7 @@
             "set_code": "9",
             "set_name": "Fabled",
             "usd": null,
-            "usd_foil": 174.87,
+            "usd_foil": 177.41,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_aed92d8e19b14ef19a92fb436dde357c.avif?1755541575",
             "purchase_url": "https://www.tcgplayer.com/product/651118",
             "collector_number": "229"
@@ -2557,7 +2557,7 @@
             "set_code": "9",
             "set_name": "Fabled",
             "usd": null,
-            "usd_foil": 171.56,
+            "usd_foil": 172.7,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_fbccd8fc95fa45009665824b0731c3d3.avif?1755541621",
             "purchase_url": "https://www.tcgplayer.com/product/649236",
             "collector_number": "238"
@@ -2602,7 +2602,7 @@
             "set_code": "10",
             "set_name": "Whispers in the Well",
             "usd": null,
-            "usd_foil": 790.13,
+            "usd_foil": 783.26,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_9a1fff8a9426484ebc7fae9cb8605572.avif?1761782335",
             "purchase_url": "https://www.tcgplayer.com/product/660011",
             "collector_number": "237"
@@ -2628,7 +2628,7 @@
             "set_code": "10",
             "set_name": "Whispers in the Well",
             "usd": null,
-            "usd_foil": 346.59,
+            "usd_foil": 342.55,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_715c77fe8d9b410d8194beea91b7163d.avif?1761782210",
             "purchase_url": "https://www.tcgplayer.com/product/660041",
             "collector_number": "228"
@@ -2641,7 +2641,7 @@
             "set_code": "10",
             "set_name": "Whispers in the Well",
             "usd": null,
-            "usd_foil": 264.27,
+            "usd_foil": 263.11,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_c2a0cc56159841db921d13a52589d13a.avif?1761766695",
             "purchase_url": "https://www.tcgplayer.com/product/660012",
             "collector_number": "232"
@@ -2732,7 +2732,7 @@
             "set_code": "10",
             "set_name": "Whispers in the Well",
             "usd": null,
-            "usd_foil": 111.29,
+            "usd_foil": 111.74,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_5547bd08bb6344d4bcd03d37e415c75f.avif?1761782128",
             "purchase_url": "https://www.tcgplayer.com/product/660027",
             "collector_number": "231"
@@ -2771,7 +2771,7 @@
             "set_code": "10",
             "set_name": "Whispers in the Well",
             "usd": null,
-            "usd_foil": 78.88,
+            "usd_foil": 80.21,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_fe0bc499ead74e4f8a5d2b0e6037cf91.avif?1761766701",
             "purchase_url": "https://www.tcgplayer.com/product/660028",
             "collector_number": "234"
@@ -2868,7 +2868,7 @@
             "set_code": "11",
             "set_name": "Winterspell",
             "usd": null,
-            "usd_foil": 833.99,
+            "usd_foil": 803.99,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_b35b509f95d441c1bd11ec67d755db5d.avif?1770260263",
             "purchase_url": "https://www.tcgplayer.com/product/675515",
             "collector_number": "233"
@@ -2907,7 +2907,7 @@
             "set_code": "11",
             "set_name": "Winterspell",
             "usd": null,
-            "usd_foil": 272.33,
+            "usd_foil": 272.2,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_862f8b58a6e247cd865509856286449e.avif?1770260231",
             "purchase_url": "https://www.tcgplayer.com/product/677160",
             "collector_number": "227"
@@ -2933,7 +2933,7 @@
             "set_code": "11",
             "set_name": "Winterspell",
             "usd": null,
-            "usd_foil": 264.8,
+            "usd_foil": 262.77,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_9652fdf2822645ee91302352c74c9d6a.avif?1770260278",
             "purchase_url": "https://www.tcgplayer.com/product/677167",
             "collector_number": "236"
@@ -2946,10 +2946,23 @@
             "set_code": "11",
             "set_name": "Winterspell",
             "usd": null,
-            "usd_foil": 252.41,
+            "usd_foil": 254.76,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_b3c4b83755bd417bb09f35ffea57cb68.avif?1770260221",
             "purchase_url": "https://www.tcgplayer.com/product/677159",
             "collector_number": "225"
+          },
+          {
+            "id": "crd_e3dbc3e8ae3543059ee67af1d144c576",
+            "name": "The Cold Never Bothered Me",
+            "version": "N/A",
+            "rarity": "Enchanted",
+            "set_code": "11",
+            "set_name": "Winterspell",
+            "usd": null,
+            "usd_foil": 252.99,
+            "image_url": "https://cards.lorcast.io/card/digital/normal/crd_e3dbc3e8ae3543059ee67af1d144c576.avif?1770260267",
+            "purchase_url": "https://www.tcgplayer.com/product/677165",
+            "collector_number": "234"
           },
           {
             "id": "crd_8ef1d474eb68402e8d35e2aa3bce689a",
@@ -2963,19 +2976,6 @@
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_8ef1d474eb68402e8d35e2aa3bce689a.avif?1770260236",
             "purchase_url": "https://www.tcgplayer.com/product/677161",
             "collector_number": "228"
-          },
-          {
-            "id": "crd_e3dbc3e8ae3543059ee67af1d144c576",
-            "name": "The Cold Never Bothered Me",
-            "version": "N/A",
-            "rarity": "Enchanted",
-            "set_code": "11",
-            "set_name": "Winterspell",
-            "usd": null,
-            "usd_foil": 231.46,
-            "image_url": "https://cards.lorcast.io/card/digital/normal/crd_e3dbc3e8ae3543059ee67af1d144c576.avif?1770260267",
-            "purchase_url": "https://www.tcgplayer.com/product/677165",
-            "collector_number": "234"
           },
           {
             "id": "crd_b30562a95420404b911886bcfc9e7a9c",
@@ -2998,7 +2998,7 @@
             "set_code": "11",
             "set_name": "Winterspell",
             "usd": null,
-            "usd_foil": 167.79,
+            "usd_foil": 168.19,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_41acb92e0c494214949c72c409593b50.avif?1770260210",
             "purchase_url": "https://www.tcgplayer.com/product/677158",
             "collector_number": "223"
@@ -3017,19 +3017,6 @@
             "collector_number": "230"
           },
           {
-            "id": "crd_656cd1bfb0084f92bfd003ca69b3b3c9",
-            "name": "Let's Get Dangerous",
-            "version": "N/A",
-            "rarity": "Enchanted",
-            "set_code": "11",
-            "set_name": "Winterspell",
-            "usd": null,
-            "usd_foil": 139.67,
-            "image_url": "https://cards.lorcast.io/card/digital/normal/crd_656cd1bfb0084f92bfd003ca69b3b3c9.avif?1770260299",
-            "purchase_url": "https://www.tcgplayer.com/product/677171",
-            "collector_number": "240"
-          },
-          {
             "id": "crd_5eb205c36e0b4038a8a46aa47dd50b0f",
             "name": "Mulan",
             "version": "Resourceful Recruit",
@@ -3041,6 +3028,19 @@
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_5eb205c36e0b4038a8a46aa47dd50b0f.avif?1770260241",
             "purchase_url": "https://www.tcgplayer.com/product/677162",
             "collector_number": "229"
+          },
+          {
+            "id": "crd_656cd1bfb0084f92bfd003ca69b3b3c9",
+            "name": "Let's Get Dangerous",
+            "version": "N/A",
+            "rarity": "Enchanted",
+            "set_code": "11",
+            "set_name": "Winterspell",
+            "usd": null,
+            "usd_foil": 135.95,
+            "image_url": "https://cards.lorcast.io/card/digital/normal/crd_656cd1bfb0084f92bfd003ca69b3b3c9.avif?1770260299",
+            "purchase_url": "https://www.tcgplayer.com/product/677171",
+            "collector_number": "240"
           },
           {
             "id": "crd_789d5871174e4da293165a39bdfece14",
@@ -3134,7 +3134,7 @@
             "set_code": "12",
             "set_name": "Wilds Unknown",
             "usd": null,
-            "usd_foil": 355.35,
+            "usd_foil": 347.17,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_c671f23fc8e74ee3a7925ad650577008.avif?1777688051",
             "purchase_url": "https://www.tcgplayer.com/product/692220",
             "collector_number": "229"
@@ -3199,7 +3199,7 @@
             "set_code": "12",
             "set_name": "Wilds Unknown",
             "usd": null,
-            "usd_foil": 112.47,
+            "usd_foil": 112.42,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_4ca85bb2c2274683bb7f2015997479c5.avif?1777688097",
             "purchase_url": "https://www.tcgplayer.com/product/692228",
             "collector_number": "238"
@@ -3251,7 +3251,7 @@
             "set_code": "12",
             "set_name": "Wilds Unknown",
             "usd": null,
-            "usd_foil": 87.2,
+            "usd_foil": 86.62,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_aa4a880f25814ec58358ea3ad771fbb3.avif?1777688037",
             "purchase_url": "https://www.tcgplayer.com/product/692090",
             "collector_number": "226"
@@ -3342,7 +3342,7 @@
             "set_code": "12",
             "set_name": "Wilds Unknown",
             "usd": null,
-            "usd_foil": 57.84,
+            "usd_foil": 57.8,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_a8ae68af26f84535869ce0dac1f4a3de.avif?1777688046",
             "purchase_url": "https://www.tcgplayer.com/product/692219",
             "collector_number": "228"
@@ -3400,7 +3400,7 @@
             "set_code": "13",
             "set_name": "Attack of the Vine!",
             "usd": null,
-            "usd_foil": 883.91,
+            "usd_foil": 877.78,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_0e2c9423df7b4642914deccabf922ff5.avif?1783190724",
             "purchase_url": "https://www.tcgplayer.com/product/704725",
             "collector_number": "234"
@@ -3413,7 +3413,7 @@
             "set_code": "13",
             "set_name": "Attack of the Vine!",
             "usd": null,
-            "usd_foil": 374.38,
+            "usd_foil": 373.86,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_862f035f533244a8a59a469e5c0cae9c.avif?1783190679",
             "purchase_url": "https://www.tcgplayer.com/product/704719",
             "collector_number": "228"
@@ -3497,6 +3497,19 @@
             "collector_number": "226"
           },
           {
+            "id": "crd_c75dbaef208b40e99c804cce84f6d116",
+            "name": "Aladdin & Genie",
+            "version": "Mischievous Pals",
+            "rarity": "Enchanted",
+            "set_code": "13",
+            "set_name": "Attack of the Vine!",
+            "usd": null,
+            "usd_foil": 157.6,
+            "image_url": "https://cards.lorcast.io/card/digital/normal/crd_c75dbaef208b40e99c804cce84f6d116.avif?1783190716",
+            "purchase_url": "https://www.tcgplayer.com/product/704723",
+            "collector_number": "232"
+          },
+          {
             "id": "crd_bb6ff43fd2d1421c90d098071c815950",
             "name": "Tod & Copper",
             "version": "Best of Friends",
@@ -3510,19 +3523,6 @@
             "collector_number": "236"
           },
           {
-            "id": "crd_c75dbaef208b40e99c804cce84f6d116",
-            "name": "Aladdin & Genie",
-            "version": "Mischievous Pals",
-            "rarity": "Enchanted",
-            "set_code": "13",
-            "set_name": "Attack of the Vine!",
-            "usd": null,
-            "usd_foil": 156.16,
-            "image_url": "https://cards.lorcast.io/card/digital/normal/crd_c75dbaef208b40e99c804cce84f6d116.avif?1783190716",
-            "purchase_url": "https://www.tcgplayer.com/product/704723",
-            "collector_number": "232"
-          },
-          {
             "id": "crd_3b3d4d77c6144c049916b45c2ec3ae0c",
             "name": "Carl Fredricksen & Russell",
             "version": "Intrepid Explorers",
@@ -3530,7 +3530,7 @@
             "set_code": "13",
             "set_name": "Attack of the Vine!",
             "usd": null,
-            "usd_foil": 119.84,
+            "usd_foil": 119.26,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_3b3d4d77c6144c049916b45c2ec3ae0c.avif?1783190870",
             "purchase_url": "https://www.tcgplayer.com/product/704728",
             "collector_number": "237"
@@ -3569,7 +3569,7 @@
             "set_code": "13",
             "set_name": "Attack of the Vine!",
             "usd": null,
-            "usd_foil": 102.74,
+            "usd_foil": 102.3,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_466a0c6459a341b2a24c46147c255a4a.avif?1783190988",
             "purchase_url": "https://www.tcgplayer.com/product/704732",
             "collector_number": "241"
@@ -3582,7 +3582,7 @@
             "set_code": "13",
             "set_name": "Attack of the Vine!",
             "usd": null,
-            "usd_foil": 100.94,
+            "usd_foil": 100.3,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_1337332b5317428c95c1129cf645924f.avif?1783190674",
             "purchase_url": "https://www.tcgplayer.com/product/704718",
             "collector_number": "227"
@@ -3608,7 +3608,7 @@
             "set_code": "13",
             "set_name": "Attack of the Vine!",
             "usd": null,
-            "usd_foil": 79.41,
+            "usd_foil": 79.02,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_bf8641478666476d982b2ce013982386.avif?1783190978",
             "purchase_url": "https://www.tcgplayer.com/product/704731",
             "collector_number": "240"

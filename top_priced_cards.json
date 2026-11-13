@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T17:11:29.403Z",
+  "timestamp": "2026-11-13T16:49:31.179Z",
   "lorcana": {
     "regular": {
       "top_standard": [
@@ -10,8 +10,8 @@
           "rarity": "Legendary",
           "set_code": "11",
           "set_name": "Winterspell",
-          "usd": 39.81,
-          "usd_foil": 47.14,
+          "usd": 39.67,
+          "usd_foil": 47.22,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_e4d3bcc244e44eefae088a4970acffc5.avif?1770260055",
           "purchase_url": "https://www.tcgplayer.com/product/673311",
           "collector_number": "191"
@@ -23,8 +23,8 @@
           "rarity": "Legendary",
           "set_code": "9",
           "set_name": "Fabled",
-          "usd": 38.66,
-          "usd_foil": 42.47,
+          "usd": 38.38,
+          "usd_foil": 42.59,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_520397ac5c7a4811b50c9adea4f2f1c9.avif?1755540594",
           "purchase_url": "https://www.tcgplayer.com/product/649228",
           "collector_number": "77"
@@ -36,8 +36,8 @@
           "rarity": "Legendary",
           "set_code": "9",
           "set_name": "Fabled",
-          "usd": 38.43,
-          "usd_foil": 41.71,
+          "usd": 37.81,
+          "usd_foil": 41.84,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_e573fd1307ec42b6b2dbd9ebb94504f0.avif?1755651363",
           "purchase_url": "https://www.tcgplayer.com/product/649225",
           "collector_number": "26"
@@ -49,7 +49,7 @@
           "rarity": "Legendary",
           "set_code": "9",
           "set_name": "Fabled",
-          "usd": 35.11,
+          "usd": 34.94,
           "usd_foil": 64.77,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_535bf9178837443f894f45d8c71045a0.avif?1755540368",
           "purchase_url": "https://www.tcgplayer.com/product/647680",
@@ -62,7 +62,7 @@
           "rarity": "Legendary",
           "set_code": "10",
           "set_name": "Whispers in the Well",
-          "usd": 32.72,
+          "usd": 32.66,
           "usd_foil": 45.71,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_a6116dcba33643b9a31897960a2267f1.avif?1761752185",
           "purchase_url": "https://www.tcgplayer.com/product/657887",
@@ -75,7 +75,7 @@
           "rarity": "Legendary",
           "set_code": "10",
           "set_name": "Whispers in the Well",
-          "usd": 23.05,
+          "usd": 22.96,
           "usd_foil": 35.46,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_d4514592d27b40cca5821f510aea2db2.avif?1761752189",
           "purchase_url": "https://www.tcgplayer.com/product/658329",
@@ -88,7 +88,7 @@
           "rarity": "Legendary",
           "set_code": "10",
           "set_name": "Whispers in the Well",
-          "usd": 21.81,
+          "usd": 21.89,
           "usd_foil": 38.11,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_31e94039c2494d31b8966443911b0fb2.avif?1761764547",
           "purchase_url": "https://www.tcgplayer.com/product/658344",
@@ -115,7 +115,7 @@
           "set_code": "11",
           "set_name": "Winterspell",
           "usd": 17.39,
-          "usd_foil": 24.07,
+          "usd_foil": 23.79,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_b1aa36e48c8e4041b07e30efb7837fa3.avif?1770259344",
           "purchase_url": "https://www.tcgplayer.com/product/673067",
           "collector_number": "32"
@@ -127,7 +127,7 @@
           "rarity": "Legendary",
           "set_code": "1",
           "set_name": "The First Chapter",
-          "usd": 16.31,
+          "usd": 16.04,
           "usd_foil": 82.27,
           "image_url": "https://cards.lorcast.io/card/digital/normal/crd_e74ef94562b9440e8dd95ada098728d6.avif?1709690747",
           "purchase_url": "https://www.tcgplayer.com/product/508785",
@@ -302,7 +302,7 @@
           "rarity": "Promo",
           "set_code": "cp",
           "set_name": "Challenge Promo",
-          "usd": 120.1,
+          "usd": 118.82,
           "usd_foil": 6000,
           "image_url": "https://cards.lorcast.io/card/digital/large/crd_ea580b2aaa374dff847750dee360b51b.avif?1709909350",
           "purchase_url": "https://www.tcgplayer.com/product/544503",
@@ -421,7 +421,7 @@
           "rarity": "Promo",
           "set_code": "cp",
           "set_name": "Challenge Promo",
-          "usd": 120.1,
+          "usd": 118.82,
           "usd_foil": 6000,
           "image_url": "https://cards.lorcast.io/card/digital/large/crd_ea580b2aaa374dff847750dee360b51b.avif?1709909350",
           "purchase_url": "https://www.tcgplayer.com/product/544503",
@@ -585,7 +585,7 @@
             "set_code": "1",
             "set_name": "The First Chapter",
             "usd": null,
-            "usd_foil": 214.22,
+            "usd_foil": 215.21,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_1a8604b7ba6c45e2bc8b32b0a70d08b5.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/510156",
             "collector_number": "210"
@@ -689,7 +689,7 @@
             "set_code": "1",
             "set_name": "The First Chapter",
             "usd": null,
-            "usd_foil": 114.41,
+            "usd_foil": 112.95,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_f839f8a7cb9a47ae962503f3ea69bec5.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/510158",
             "collector_number": "212"
@@ -747,7 +747,7 @@
             "set_code": "2",
             "set_name": "Rise of the Floodborn",
             "usd": null,
-            "usd_foil": 69.88,
+            "usd_foil": 69.24,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_458325805fc445799aabfe4c4046f89b.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/527800",
             "collector_number": "210"
@@ -799,7 +799,7 @@
             "set_code": "2",
             "set_name": "Rise of the Floodborn",
             "usd": null,
-            "usd_foil": 47.23,
+            "usd_foil": 46.72,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_f9edf9a591974716b2d7f02764f93737.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/528112",
             "collector_number": "214"
@@ -948,7 +948,7 @@
             "set_code": "3",
             "set_name": "Into the Inklands",
             "usd": null,
-            "usd_foil": 68.13,
+            "usd_foil": 68.15,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_40690491af114f2e810a6fd1c6ddcafa.avif?1709690747",
             "purchase_url": "https://www.tcgplayer.com/product/539159",
             "collector_number": "209"
@@ -1240,7 +1240,7 @@
             "set_code": "4",
             "set_name": "Ursula's Return",
             "usd": null,
-            "usd_foil": 52.61,
+            "usd_foil": 52.03,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_34dd94ad32194a96931c9e2ff311ad26.avif?1716052430",
             "purchase_url": "https://www.tcgplayer.com/product/550538",
             "collector_number": "209"
@@ -1253,7 +1253,7 @@
             "set_code": "4",
             "set_name": "Ursula's Return",
             "usd": null,
-            "usd_foil": 49.1,
+            "usd_foil": 48.76,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_68c45595c25041f3bcf2073a5b533edd.avif?1716052430",
             "purchase_url": "https://www.tcgplayer.com/product/550844",
             "collector_number": "208"
@@ -1279,7 +1279,7 @@
             "set_code": "4",
             "set_name": "Ursula's Return",
             "usd": null,
-            "usd_foil": 41.62,
+            "usd_foil": 41.82,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_20f6a0577b714cf393648a074b1f0bb2.avif?1716052430",
             "purchase_url": "https://www.tcgplayer.com/product/550540",
             "collector_number": "218"
@@ -1402,7 +1402,7 @@
             "set_code": "5",
             "set_name": "Shimmering Skies",
             "usd": null,
-            "usd_foil": 94.58,
+            "usd_foil": 94.27,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_d08869cde8294b0b9f73d0f7192e2335.avif?1723917209",
             "purchase_url": "https://www.tcgplayer.com/product/561984",
             "collector_number": "215"
@@ -1441,7 +1441,7 @@
             "set_code": "5",
             "set_name": "Shimmering Skies",
             "usd": null,
-            "usd_foil": 61.88,
+            "usd_foil": 61.43,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_6d0b490fddd34aab828b26cb90a827d6.avif?1723917209",
             "purchase_url": "https://www.tcgplayer.com/product/561992",
             "collector_number": "206"
@@ -1467,7 +1467,7 @@
             "set_code": "5",
             "set_name": "Shimmering Skies",
             "usd": null,
-            "usd_foil": 50.45,
+            "usd_foil": 49.93,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_8dbe711cfb4541309eb32cf37fe48997.avif?1723917209",
             "purchase_url": "https://www.tcgplayer.com/product/561991",
             "collector_number": "211"
@@ -1493,7 +1493,7 @@
             "set_code": "5",
             "set_name": "Shimmering Skies",
             "usd": null,
-            "usd_foil": 43.4,
+            "usd_foil": 42.94,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_74f050d47ef34391ba29b8c521450dac.avif?1723917209",
             "purchase_url": "https://www.tcgplayer.com/product/561993",
             "collector_number": "205"
@@ -1655,7 +1655,7 @@
             "set_code": "6",
             "set_name": "Azurite Sea",
             "usd": null,
-            "usd_foil": 73.97,
+            "usd_foil": 73.81,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_c1cd26316f4948a382770ffb29440699.avif?1730901319",
             "purchase_url": "https://www.tcgplayer.com/product/592030",
             "collector_number": "205"
@@ -1668,7 +1668,7 @@
             "set_code": "6",
             "set_name": "Azurite Sea",
             "usd": null,
-            "usd_foil": 62.8,
+            "usd_foil": 63.3,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_d5432572fd3d4dfc95b01b682c71943c.avif?1730901319",
             "purchase_url": "https://www.tcgplayer.com/product/592032",
             "collector_number": "208"
@@ -1681,7 +1681,7 @@
             "set_code": "6",
             "set_name": "Azurite Sea",
             "usd": null,
-            "usd_foil": 61.86,
+            "usd_foil": 60.98,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_21bfac43fba64c06ab62139f3befd6c1.avif?1730901319",
             "purchase_url": "https://www.tcgplayer.com/product/592040",
             "collector_number": "211"
@@ -1759,7 +1759,7 @@
             "set_code": "6",
             "set_name": "Azurite Sea",
             "usd": null,
-            "usd_foil": 45.65,
+            "usd_foil": 45.26,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_b1ea1c67fc224e968a4906149590585c.avif?1730901319",
             "purchase_url": "https://www.tcgplayer.com/product/592036",
             "collector_number": "214"
@@ -1798,7 +1798,7 @@
             "set_code": "6",
             "set_name": "Azurite Sea",
             "usd": null,
-            "usd_foil": 29.59,
+            "usd_foil": 29.57,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_66c2f5fd704b45bdbe79f585ac31d6fc.avif?1730901319",
             "purchase_url": "https://www.tcgplayer.com/product/592034",
             "collector_number": "210"
@@ -2440,7 +2440,7 @@
             "set_code": "9",
             "set_name": "Fabled",
             "usd": null,
-            "usd_foil": 321.57,
+            "usd_foil": 318.27,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_c233fd3627b24b02bd616aa62bbdc83a.avif?1755541543",
             "purchase_url": "https://www.tcgplayer.com/product/651110",
             "collector_number": "223"
@@ -2466,7 +2466,7 @@
             "set_code": "9",
             "set_name": "Fabled",
             "usd": null,
-            "usd_foil": 259.9,
+            "usd_foil": 258.54,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_8016f590ebb344a2934d76f614fedbba.avif?1755541547",
             "purchase_url": "https://www.tcgplayer.com/product/651122",
             "collector_number": "224"
@@ -2745,7 +2745,7 @@
             "set_code": "10",
             "set_name": "Whispers in the Well",
             "usd": null,
-            "usd_foil": 90.13,
+            "usd_foil": 89.93,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_24dfd54db49e4a5d8004c51d0882aa46.avif?1761765616",
             "purchase_url": "https://www.tcgplayer.com/product/658884",
             "collector_number": "225"
@@ -2771,7 +2771,7 @@
             "set_code": "10",
             "set_name": "Whispers in the Well",
             "usd": null,
-            "usd_foil": 81.66,
+            "usd_foil": 80.99,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_831e34ca1c2143dd82785500356c339e.avif?1761765648",
             "purchase_url": "https://www.tcgplayer.com/product/660044",
             "collector_number": "226"
@@ -2810,7 +2810,7 @@
             "set_code": "10",
             "set_name": "Whispers in the Well",
             "usd": null,
-            "usd_foil": 48.77,
+            "usd_foil": 48.16,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_ee5abfdfaa9d469e93dd20e1253ed1d0.avif?1761766696",
             "purchase_url": "https://www.tcgplayer.com/product/660042",
             "collector_number": "233"
@@ -2823,7 +2823,7 @@
             "set_code": "10",
             "set_name": "Whispers in the Well",
             "usd": null,
-            "usd_foil": 44.99,
+            "usd_foil": 44.78,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_70fa88bf3a35452b8178209944e8604a.avif?1761766936",
             "purchase_url": "https://www.tcgplayer.com/product/660031",
             "collector_number": "240"
@@ -2894,7 +2894,7 @@
             "set_code": "11",
             "set_name": "Winterspell",
             "usd": null,
-            "usd_foil": 369.52,
+            "usd_foil": 363.5,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_87abaabc59344ef1bfed548f0b6753bf.avif?1770260216",
             "purchase_url": "https://www.tcgplayer.com/product/673068",
             "collector_number": "224"
@@ -2998,7 +2998,7 @@
             "set_code": "11",
             "set_name": "Winterspell",
             "usd": null,
-            "usd_foil": 168.45,
+            "usd_foil": 163.85,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_d0659baf8fad4748ae9abf7260279d8c.avif?1770260252",
             "purchase_url": "https://www.tcgplayer.com/product/675395",
             "collector_number": "231"
@@ -3147,7 +3147,7 @@
             "set_code": "12",
             "set_name": "Wilds Unknown",
             "usd": null,
-            "usd_foil": 248.77,
+            "usd_foil": 244.66,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_611ab7622d0b4aa7a9aa98ab736f329c.avif?1777688033",
             "purchase_url": "https://www.tcgplayer.com/product/690747",
             "collector_number": "225"
@@ -3186,7 +3186,7 @@
             "set_code": "12",
             "set_name": "Wilds Unknown",
             "usd": null,
-            "usd_foil": 85.89,
+            "usd_foil": 85.2,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_519eea38258c49ca9b1eab9981d74544.avif?1777688066",
             "purchase_url": "https://www.tcgplayer.com/product/692223",
             "collector_number": "232"
@@ -3277,7 +3277,7 @@
             "set_code": "12",
             "set_name": "Wilds Unknown",
             "usd": null,
-            "usd_foil": 63.61,
+            "usd_foil": 62.71,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_4ca85bb2c2274683bb7f2015997479c5.avif?1777688097",
             "purchase_url": "https://www.tcgplayer.com/product/692228",
             "collector_number": "238"
@@ -3290,7 +3290,7 @@
             "set_code": "12",
             "set_name": "Wilds Unknown",
             "usd": null,
-            "usd_foil": 57.23,
+            "usd_foil": 57.82,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_8197b190acad44c7a28b50a83fb573f1.avif?1777688087",
             "purchase_url": "https://www.tcgplayer.com/product/692227",
             "collector_number": "236"
@@ -3303,7 +3303,7 @@
             "set_code": "12",
             "set_name": "Wilds Unknown",
             "usd": null,
-            "usd_foil": 52.93,
+            "usd_foil": 52.62,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_a8ae68af26f84535869ce0dac1f4a3de.avif?1777688046",
             "purchase_url": "https://www.tcgplayer.com/product/692219",
             "collector_number": "228"
@@ -3316,23 +3316,10 @@
             "set_code": "12",
             "set_name": "Wilds Unknown",
             "usd": null,
-            "usd_foil": 52.49,
+            "usd_foil": 51.73,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_a2a3a343dac1408092294ea226dcd028.avif?1777688092",
             "purchase_url": "https://www.tcgplayer.com/product/690556",
             "collector_number": "237"
-          },
-          {
-            "id": "crd_68c6733378304dca8d2adb4b1c993433",
-            "name": "Isabela Madrigal",
-            "version": "Caring Cultivator",
-            "rarity": "Enchanted",
-            "set_code": "12",
-            "set_name": "Wilds Unknown",
-            "usd": null,
-            "usd_foil": 45.72,
-            "image_url": "https://cards.lorcast.io/card/digital/normal/crd_68c6733378304dca8d2adb4b1c993433.avif?1777688028",
-            "purchase_url": "https://www.tcgplayer.com/product/692089",
-            "collector_number": "224"
           },
           {
             "id": "crd_d515c85e0daa4cfd8c3a84154d328cd4",
@@ -3342,10 +3329,23 @@
             "set_code": "12",
             "set_name": "Wilds Unknown",
             "usd": null,
-            "usd_foil": 45.17,
+            "usd_foil": 45.12,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_d515c85e0daa4cfd8c3a84154d328cd4.avif?1777688081",
             "purchase_url": "https://www.tcgplayer.com/product/692226",
             "collector_number": "235"
+          },
+          {
+            "id": "crd_68c6733378304dca8d2adb4b1c993433",
+            "name": "Isabela Madrigal",
+            "version": "Caring Cultivator",
+            "rarity": "Enchanted",
+            "set_code": "12",
+            "set_name": "Wilds Unknown",
+            "usd": null,
+            "usd_foil": 44.31,
+            "image_url": "https://cards.lorcast.io/card/digital/normal/crd_68c6733378304dca8d2adb4b1c993433.avif?1777688028",
+            "purchase_url": "https://www.tcgplayer.com/product/692089",
+            "collector_number": "224"
           },
           {
             "id": "crd_c4e66047e01c49f4bedb6c185d0af90a",
@@ -3355,7 +3355,7 @@
             "set_code": "12",
             "set_name": "Wilds Unknown",
             "usd": null,
-            "usd_foil": 42.59,
+            "usd_foil": 42.19,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_c4e66047e01c49f4bedb6c185d0af90a.avif?1777688061",
             "purchase_url": "https://www.tcgplayer.com/product/692222",
             "collector_number": "231"
@@ -3439,7 +3439,7 @@
             "set_code": "13",
             "set_name": "Attack of the Vine!",
             "usd": null,
-            "usd_foil": 181.95,
+            "usd_foil": 178.67,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_fd8a29d02aba433bbd71f62e65fec165.avif?1783190689",
             "purchase_url": "https://www.tcgplayer.com/product/704720",
             "collector_number": "229"
@@ -3465,7 +3465,7 @@
             "set_code": "13",
             "set_name": "Attack of the Vine!",
             "usd": null,
-            "usd_foil": 150.02,
+            "usd_foil": 148.9,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_c53298466f7e478ea0b117f26bf7c1d9.avif?1783190724",
             "purchase_url": "https://www.tcgplayer.com/product/704724",
             "collector_number": "233"
@@ -3517,7 +3517,7 @@
             "set_code": "13",
             "set_name": "Attack of the Vine!",
             "usd": null,
-            "usd_foil": 95.58,
+            "usd_foil": 94.48,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_db9e9bd72a5c4aca98bc66a4a9b15499.avif?1783190856",
             "purchase_url": "https://www.tcgplayer.com/product/704726",
             "collector_number": "235"
@@ -3608,7 +3608,7 @@
             "set_code": "13",
             "set_name": "Attack of the Vine!",
             "usd": null,
-            "usd_foil": 60.31,
+            "usd_foil": 58.99,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_4d34e657d04645639e87b906f70931ce.avif?1783190699",
             "purchase_url": "https://www.tcgplayer.com/product/704721",
             "collector_number": "230"
@@ -3621,7 +3621,7 @@
             "set_code": "13",
             "set_name": "Attack of the Vine!",
             "usd": null,
-            "usd_foil": 54.33,
+            "usd_foil": 53.31,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_bf8641478666476d982b2ce013982386.avif?1783190978",
             "purchase_url": "https://www.tcgplayer.com/product/704731",
             "collector_number": "240"
@@ -3653,7 +3653,7 @@
             "set_code": "14",
             "set_name": "Hyperia City",
             "usd": null,
-            "usd_foil": 1106.67,
+            "usd_foil": 1055.98,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_53e52ad2780c40559d8ee63fe8e47192.avif?1790278658",
             "purchase_url": "https://www.tcgplayer.com/product/722592",
             "collector_number": "242"
@@ -3705,7 +3705,7 @@
             "set_code": "14",
             "set_name": "Hyperia City",
             "usd": null,
-            "usd_foil": 197.5,
+            "usd_foil": 198.7,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_005aa953b56d427ebc078976dde6cb49.avif?1791857329",
             "purchase_url": "https://www.tcgplayer.com/product/722573",
             "collector_number": "223"
@@ -3718,7 +3718,7 @@
             "set_code": "14",
             "set_name": "Hyperia City",
             "usd": null,
-            "usd_foil": 174.44,
+            "usd_foil": 169.69,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_802b1db2bf2348139101864a026b3ea0.avif?1791857345",
             "purchase_url": "https://www.tcgplayer.com/product/722576",
             "collector_number": "226"
@@ -3731,7 +3731,7 @@
             "set_code": "14",
             "set_name": "Hyperia City",
             "usd": null,
-            "usd_foil": 151.94,
+            "usd_foil": 151.5,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_5408d7802a8c430b893f66ba5dac17e3.avif?1791857403",
             "purchase_url": "https://www.tcgplayer.com/product/722588",
             "collector_number": "238"
@@ -3796,7 +3796,7 @@
             "set_code": "14",
             "set_name": "Hyperia City",
             "usd": null,
-            "usd_foil": 97.37,
+            "usd_foil": 95.43,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_7178015b9bc0463d95ed535b9b6cfeb5.avif?1791857398",
             "purchase_url": "https://www.tcgplayer.com/product/722587",
             "collector_number": "237"
@@ -3822,7 +3822,7 @@
             "set_code": "14",
             "set_name": "Hyperia City",
             "usd": null,
-            "usd_foil": 79.37,
+            "usd_foil": 79.82,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_6627b31f9682430a9765f027abe0922f.avif?1791857416",
             "purchase_url": "https://www.tcgplayer.com/product/722590",
             "collector_number": "240"
@@ -3887,7 +3887,7 @@
             "set_code": "14",
             "set_name": "Hyperia City",
             "usd": null,
-            "usd_foil": 47.78,
+            "usd_foil": 47.74,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_7c77214c54634eae96cd6f5201661a05.avif?1791857355",
             "purchase_url": "https://www.tcgplayer.com/product/722578",
             "collector_number": "228"
@@ -3906,7 +3906,7 @@
             "set_code": "P2",
             "set_name": "Promo Set 2",
             "usd": null,
-            "usd_foil": 28.71,
+            "usd_foil": 28.37,
             "image_url": "https://cards.lorcast.io/card/digital/normal/crd_248b8f0ae7a84f368e48086307f50ff7.avif?1755564077",
             "purchase_url": "https://www.tcgplayer.com/product/634261",
             "collector_number": "33"
@@ -4016,7 +4016,7 @@
           "rarity": "Rare",
           "set_code": "OGS",
           "set_name": "Origins: Proving Grounds",
-          "usd": 16.6,
+          "usd": 16.37,
           "usd_foil": null,
           "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653154_200w.jpg",
           "purchase_url": "https://www.tcgplayer.com/product/653154/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-master-yi-wuju-bladesman-starter",
@@ -4029,7 +4029,7 @@
           "rarity": "Rare",
           "set_code": "OGS",
           "set_name": "Origins: Proving Grounds",
-          "usd": 7.77,
+          "usd": 7.72,
           "usd_foil": null,
           "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653156_200w.jpg",
           "purchase_url": "https://www.tcgplayer.com/product/653156/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-lux-lady-of-luminosity-starter",
@@ -4042,24 +4042,24 @@
           "rarity": "Uncommon",
           "set_code": "OGN",
           "set_name": "Origins",
-          "usd": 5.08,
-          "usd_foil": 6.25,
+          "usd": 4.64,
+          "usd_foil": 6.45,
           "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653018_200w.jpg",
           "purchase_url": "https://www.tcgplayer.com/product/653018/riftbound-league-of-legends-trading-card-game-origins-salvage",
           "collector_number": "224/298"
         },
         {
-          "id": "rift_653136",
-          "name": "Annie, Fiery",
+          "id": "rift_685589",
+          "name": "Sprite Fountain",
           "version": "N/A",
-          "rarity": "Epic",
-          "set_code": "OGS",
-          "set_name": "Origins: Proving Grounds",
-          "usd": 4.26,
-          "usd_foil": null,
-          "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653136_200w.jpg",
-          "purchase_url": "https://www.tcgplayer.com/product/653136/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-annie-fiery",
-          "collector_number": "001/024"
+          "rarity": "Uncommon",
+          "set_code": "UNL",
+          "set_name": "Unleashed",
+          "usd": 4.61,
+          "usd_foil": 5.79,
+          "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685589_200w.jpg",
+          "purchase_url": "https://www.tcgplayer.com/product/685589/riftbound-league-of-legends-trading-card-game-unleashed-sprite-fountain",
+          "collector_number": "078/219"
         }
       ],
       "top_foil": [
@@ -4350,7 +4350,7 @@
           "set_code": "OPP",
           "set_name": "Riftbound Organized Play Promotional Cards",
           "usd": null,
-          "usd_foil": 899,
+          "usd_foil": 925.57,
           "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709101_200w.jpg",
           "purchase_url": "https://www.tcgplayer.com/product/709101/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-poppy-defender-of-the-meek-alternate-art",
           "collector_number": "178a/219"
@@ -4428,7 +4428,7 @@
           "set_code": "PR",
           "set_name": "Riftbound Promotional Cards",
           "usd": null,
-          "usd_foil": 232,
+          "usd_foil": 224.53,
           "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/726827_200w.jpg",
           "purchase_url": "https://www.tcgplayer.com/product/726827/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-lulu-whimsical",
           "collector_number": "110a/167"
@@ -4474,7 +4474,7 @@
             "set_code": "RXK/DA",
             "set_name": "Riftbound x K/DA: Couture Collection",
             "usd": null,
-            "usd_foil": null,
+            "usd_foil": 299.99,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/732651_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/732651/riftbound-league-of-legends-trading-card-game-riftbound-x-k-da-couture-collection-ahri-nine-tailed-fox",
             "collector_number": "001*/005"
@@ -4487,7 +4487,7 @@
             "set_code": "RXK/DA",
             "set_name": "Riftbound x K/DA: Couture Collection",
             "usd": null,
-            "usd_foil": null,
+            "usd_foil": 299.99,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/732654_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/732654/riftbound-league-of-legends-trading-card-game-riftbound-x-k-da-couture-collection-akali-rogue-assassin",
             "collector_number": "004*/005"
@@ -4500,7 +4500,7 @@
             "set_code": "RXK/DA",
             "set_name": "Riftbound x K/DA: Couture Collection",
             "usd": null,
-            "usd_foil": null,
+            "usd_foil": 299.99,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/732653_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/732653/riftbound-league-of-legends-trading-card-game-riftbound-x-k-da-couture-collection-evelynn-agonys-embrace",
             "collector_number": "002*/005"
@@ -4513,7 +4513,7 @@
             "set_code": "RXK/DA",
             "set_name": "Riftbound x K/DA: Couture Collection",
             "usd": null,
-            "usd_foil": null,
+            "usd_foil": 299.99,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/732652_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/732652/riftbound-league-of-legends-trading-card-game-riftbound-x-k-da-couture-collection-kaisa-daughter-of-the-void",
             "collector_number": "003*/005"
@@ -4701,7 +4701,7 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 300.49,
+            "usd_foil": 300.24,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/724641_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/724641/riftbound-league-of-legends-trading-card-game-radiance-jarvan-iv-exemplar-of-demacia-signature",
             "collector_number": "179*/167"
@@ -4727,7 +4727,7 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 168.24,
+            "usd_foil": 157.19,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722843_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/722843/riftbound-league-of-legends-trading-card-game-radiance-evelynn-agonys-embrace-overnumbered",
             "collector_number": "175/167"
@@ -4740,7 +4740,7 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 163.61,
+            "usd_foil": 152.68,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723435_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/723435/riftbound-league-of-legends-trading-card-game-radiance-riven-the-exile-overnumbered",
             "collector_number": "173/167"
@@ -4753,7 +4753,7 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 114.36,
+            "usd_foil": 113.4,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722338_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/722338/riftbound-league-of-legends-trading-card-game-radiance-seraphine-starry-eyed-songstress-overnumbered",
             "collector_number": "174/167"
@@ -4766,7 +4766,7 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 108.97,
+            "usd_foil": 107.57,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722887_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/722887/riftbound-league-of-legends-trading-card-game-radiance-mordekaiser-iron-revenant-overnumbered",
             "collector_number": "170/167"
@@ -4779,7 +4779,7 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 99.94,
+            "usd_foil": 99.49,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722345_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/722345/riftbound-league-of-legends-trading-card-game-radiance-ziggs-hexplosives-expert-overnumbered",
             "collector_number": "169/167"
@@ -4792,7 +4792,7 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 71.61,
+            "usd_foil": 70.48,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722323_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/722323/riftbound-league-of-legends-trading-card-game-radiance-orianna-lady-of-clockwork-overnumbered",
             "collector_number": "171/167"
@@ -4818,7 +4818,7 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 52.55,
+            "usd_foil": 52.23,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723382_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/723382/riftbound-league-of-legends-trading-card-game-radiance-ekko-revolutionary-overnumbered",
             "collector_number": "177/167"
@@ -4831,7 +4831,7 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 51,
+            "usd_foil": 50.17,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722856_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/722856/riftbound-league-of-legends-trading-card-game-radiance-ekko-boy-who-shattered-time-overnumbered",
             "collector_number": "168/167"
@@ -4844,7 +4844,7 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 50.25,
+            "usd_foil": 49.14,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722306_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/722306/riftbound-league-of-legends-trading-card-game-radiance-jarvan-iv-exemplar-of-demacia-overnumbered",
             "collector_number": "176/167"
@@ -4857,23 +4857,10 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 43.76,
+            "usd_foil": 42.87,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/721352_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/721352/riftbound-league-of-legends-trading-card-game-radiance-ezreal-dashing-heartsteel-overnumbered",
             "collector_number": "180/167"
-          },
-          {
-            "id": "rift_721356",
-            "name": "Kayn, Unleashed (Heartsteel Overnumbered)",
-            "version": "Heartsteel Overnumbered",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 42.7,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/721356_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/721356/riftbound-league-of-legends-trading-card-game-radiance-kayn-unleashed-heartsteel-overnumbered",
-            "collector_number": "182/167"
           },
           {
             "id": "rift_721346",
@@ -4883,7 +4870,7 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 42.45,
+            "usd_foil": 42.16,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/721346_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/721346/riftbound-league-of-legends-trading-card-game-radiance-ksante-courageous-heartsteel-overnumbered",
             "collector_number": "178/167"
@@ -4902,17 +4889,17 @@
             "collector_number": "172/167"
           },
           {
-            "id": "rift_721354",
-            "name": "Yone, Blademaster (Heartsteel Overnumbered)",
+            "id": "rift_721356",
+            "name": "Kayn, Unleashed (Heartsteel Overnumbered)",
             "version": "Heartsteel Overnumbered",
             "rarity": "Showcase",
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 41.62,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/721354_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/721354/riftbound-league-of-legends-trading-card-game-radiance-yone-blademaster-heartsteel-overnumbered",
-            "collector_number": "181/167"
+            "usd_foil": 40.86,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/721356_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/721356/riftbound-league-of-legends-trading-card-game-radiance-kayn-unleashed-heartsteel-overnumbered",
+            "collector_number": "182/167"
           },
           {
             "id": "rift_721350",
@@ -4922,10 +4909,23 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 41.08,
+            "usd_foil": 40.55,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/721350_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/721350/riftbound-league-of-legends-trading-card-game-radiance-aphelios-exalted-heartsteel-overnumbered",
             "collector_number": "179/167"
+          },
+          {
+            "id": "rift_721354",
+            "name": "Yone, Blademaster (Heartsteel Overnumbered)",
+            "version": "Heartsteel Overnumbered",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 38.35,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/721354_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/721354/riftbound-league-of-legends-trading-card-game-radiance-yone-blademaster-heartsteel-overnumbered",
+            "collector_number": "181/167"
           },
           {
             "id": "rift_722845",
@@ -4935,400 +4935,10 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": 28.18,
+            "usd_foil": 27.99,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722845_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/722845/riftbound-league-of-legends-trading-card-game-radiance-ahri-confident-k-da-special-art-card",
             "collector_number": "SP1/005"
-          },
-          {
-            "id": "rift_722313",
-            "name": "Kai'Sa, Rebel (K/DA Special Art Card)",
-            "version": "K/DA Special Art Card",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 18.27,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722313_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722313/riftbound-league-of-legends-trading-card-game-radiance-kaisa-rebel-k-da-special-art-card",
-            "collector_number": "SP4/005"
-          },
-          {
-            "id": "rift_722847",
-            "name": "Akali, Brash (K/DA Special Art Card)",
-            "version": "K/DA Special Art Card",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 16.7,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722847_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722847/riftbound-league-of-legends-trading-card-game-radiance-akali-brash-k-da-special-art-card",
-            "collector_number": "SP2/005"
-          },
-          {
-            "id": "rift_722872",
-            "name": "Evelynn, In Control (K/DA Special Art Card)",
-            "version": "K/DA Special Art Card",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 16.68,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722872_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722872/riftbound-league-of-legends-trading-card-game-radiance-evelynn-in-control-k-da-special-art-card",
-            "collector_number": "SP3/005"
-          },
-          {
-            "id": "rift_722337",
-            "name": "Seraphine, Not Alone (K/DA Special Art Card)",
-            "version": "K/DA Special Art Card",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 10.94,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722337_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722337/riftbound-league-of-legends-trading-card-game-radiance-seraphine-not-alone-k-da-special-art-card",
-            "collector_number": "SP5/005"
-          },
-          {
-            "id": "rift_723220",
-            "name": "Riven, Deserter (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 5.73,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723220_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/723220/riftbound-league-of-legends-trading-card-game-radiance-riven-deserter-alternate-art",
-            "collector_number": "114a/167"
-          },
-          {
-            "id": "rift_722908",
-            "name": "Riven, Broken Blade (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 5,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722908_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722908/riftbound-league-of-legends-trading-card-game-radiance-riven-broken-blade-alternate-art",
-            "collector_number": "043a/167"
-          },
-          {
-            "id": "rift_722319",
-            "name": "Mordekaiser, Dominating (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 4.5,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722319_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722319/riftbound-league-of-legends-trading-card-game-radiance-mordekaiser-dominating-alternate-art",
-            "collector_number": "137a/167"
-          },
-          {
-            "id": "rift_722866",
-            "name": "Ekko, Revolutionary (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 4.36,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722866_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722866/riftbound-league-of-legends-trading-card-game-radiance-ekko-revolutionary-alternate-art",
-            "collector_number": "021a/167"
-          },
-          {
-            "id": "rift_722859",
-            "name": "Chaos Rune (R05a)",
-            "version": "R05a",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 4.19,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722859_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722859/riftbound-league-of-legends-trading-card-game-radiance-chaos-rune-r05a",
-            "collector_number": "R05a"
-          },
-          {
-            "id": "rift_722298",
-            "name": "Evelynn, Consuming (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 4.05,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722298_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722298/riftbound-league-of-legends-trading-card-game-radiance-evelynn-consuming-alternate-art",
-            "collector_number": "090a/167"
-          },
-          {
-            "id": "rift_722898",
-            "name": "Order Rune (R06a)",
-            "version": "R06a",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 3.67,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722898_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722898/riftbound-league-of-legends-trading-card-game-radiance-order-rune-r06a",
-            "collector_number": "R06a"
-          },
-          {
-            "id": "rift_723423",
-            "name": "Orianna, Exquisite (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 3.67,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723423_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/723423/riftbound-league-of-legends-trading-card-game-radiance-orianna-exquisite-alternate-art",
-            "collector_number": "042a/167"
-          },
-          {
-            "id": "rift_722325",
-            "name": "Orianna, Mechanical Marvel (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 3.6,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722325_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722325/riftbound-league-of-legends-trading-card-game-radiance-orianna-mechanical-marvel-alternate-art",
-            "collector_number": "068a/167"
-          },
-          {
-            "id": "rift_722282",
-            "name": "Calm Rune (R02a)",
-            "version": "R02a",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 3.35,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722282_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722282/riftbound-league-of-legends-trading-card-game-radiance-calm-rune-r02a",
-            "collector_number": "R02a"
-          },
-          {
-            "id": "rift_722336",
-            "name": "Seraphine, Not Alone (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 3.17,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722336_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722336/riftbound-league-of-legends-trading-card-game-radiance-seraphine-not-alone-alternate-art",
-            "collector_number": "138a/167"
-          },
-          {
-            "id": "rift_722316",
-            "name": "Mind Rune (R03a)",
-            "version": "R03a",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 3.15,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722316_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722316/riftbound-league-of-legends-trading-card-game-radiance-mind-rune-r03a",
-            "collector_number": "R03a"
-          },
-          {
-            "id": "rift_722347",
-            "name": "Ziggs, Short-Fused (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 3.07,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722347_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722347/riftbound-league-of-legends-trading-card-game-radiance-ziggs-short-fused-alternate-art",
-            "collector_number": "023a/167"
-          },
-          {
-            "id": "rift_722877",
-            "name": "Fury Rune (R01a)",
-            "version": "R01a",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 2.42,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722877_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722877/riftbound-league-of-legends-trading-card-game-radiance-fury-rune-r01a",
-            "collector_number": "R01a"
-          },
-          {
-            "id": "rift_722873",
-            "name": "Evelynn, In Control (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 2.38,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722873_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722873/riftbound-league-of-legends-trading-card-game-radiance-evelynn-in-control-alternate-art",
-            "collector_number": "109a/167"
-          },
-          {
-            "id": "rift_722888",
-            "name": "Jarvan IV, Martial Paragon (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 2.2,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722888_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722888/riftbound-league-of-legends-trading-card-game-radiance-jarvan-iv-martial-paragon-alternate-art",
-            "collector_number": "091a/167"
-          },
-          {
-            "id": "rift_722308",
-            "name": "K'Sante, Courageous (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 2.15,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722308_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722308/riftbound-league-of-legends-trading-card-game-radiance-ksante-courageous-alternate-art",
-            "collector_number": "086a/167"
-          },
-          {
-            "id": "rift_722854",
-            "name": "Body Rune (R04a)",
-            "version": "R04a",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 2.09,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722854_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722854/riftbound-league-of-legends-trading-card-game-radiance-body-rune-r04a",
-            "collector_number": "R04a"
-          },
-          {
-            "id": "rift_723227",
-            "name": "Ziggs, Explosive (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 1.87,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723227_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/723227/riftbound-league-of-legends-trading-card-game-radiance-ziggs-explosive-alternate-art",
-            "collector_number": "112a/167"
-          },
-          {
-            "id": "rift_722310",
-            "name": "K'Sante, Dauntless (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 1.69,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722310_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722310/riftbound-league-of-legends-trading-card-game-radiance-ksante-dauntless-alternate-art",
-            "collector_number": "045a/167"
-          },
-          {
-            "id": "rift_722295",
-            "name": "Ekko, Ingenious (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 1.23,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722295_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/722295/riftbound-league-of-legends-trading-card-game-radiance-ekko-ingenious-alternate-art",
-            "collector_number": "061a/167"
-          },
-          {
-            "id": "rift_723214",
-            "name": "Mordekaiser, Twice Slain (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 0.99,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723214_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/723214/riftbound-league-of-legends-trading-card-game-radiance-mordekaiser-twice-slain-alternate-art",
-            "collector_number": "020a/167"
-          },
-          {
-            "id": "rift_723429",
-            "name": "Seraphine, Inspiring (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 0.86,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723429_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/723429/riftbound-league-of-legends-trading-card-game-radiance-seraphine-inspiring-alternate-art",
-            "collector_number": "065a/167"
-          },
-          {
-            "id": "rift_723210",
-            "name": "Jarvan IV, Royal Heir (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": 0.71,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723210_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/723210/riftbound-league-of-legends-trading-card-game-radiance-jarvan-iv-royal-heir-alternate-art",
-            "collector_number": "133a/167"
-          },
-          {
-            "id": "rift_732643",
-            "name": "Body Rune (R04b)",
-            "version": "R04b",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": null,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/732643_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/732643/riftbound-league-of-legends-trading-card-game-radiance-body-rune-r04b",
-            "collector_number": "R04b"
-          },
-          {
-            "id": "rift_732647",
-            "name": "Calm Rune (R02b)",
-            "version": "R02b",
-            "rarity": "Showcase",
-            "set_code": "RAD",
-            "set_name": "Radiance",
-            "usd": null,
-            "usd_foil": null,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/732647_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/732647/riftbound-league-of-legends-trading-card-game-radiance-calm-rune-r02b",
-            "collector_number": "R02b"
           },
           {
             "id": "rift_732644",
@@ -5338,10 +4948,36 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": null,
+            "usd_foil": 18.75,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/732644_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/732644/riftbound-league-of-legends-trading-card-game-radiance-chaos-rune-r05b",
             "collector_number": "R05b"
+          },
+          {
+            "id": "rift_722313",
+            "name": "Kai'Sa, Rebel (K/DA Special Art Card)",
+            "version": "K/DA Special Art Card",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 17.83,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722313_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722313/riftbound-league-of-legends-trading-card-game-radiance-kaisa-rebel-k-da-special-art-card",
+            "collector_number": "SP4/005"
+          },
+          {
+            "id": "rift_722872",
+            "name": "Evelynn, In Control (K/DA Special Art Card)",
+            "version": "K/DA Special Art Card",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 16.61,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722872_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722872/riftbound-league-of-legends-trading-card-game-radiance-evelynn-in-control-k-da-special-art-card",
+            "collector_number": "SP3/005"
           },
           {
             "id": "rift_732648",
@@ -5351,10 +4987,23 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": null,
+            "usd_foil": 16.45,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/732648_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/732648/riftbound-league-of-legends-trading-card-game-radiance-fury-rune-r01b",
             "collector_number": "R01b"
+          },
+          {
+            "id": "rift_722847",
+            "name": "Akali, Brash (K/DA Special Art Card)",
+            "version": "K/DA Special Art Card",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 15.98,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722847_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722847/riftbound-league-of-legends-trading-card-game-radiance-akali-brash-k-da-special-art-card",
+            "collector_number": "SP2/005"
           },
           {
             "id": "rift_732646",
@@ -5364,7 +5013,7 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": null,
+            "usd_foil": 14.99,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/732646_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/732646/riftbound-league-of-legends-trading-card-game-radiance-mind-rune-r03b",
             "collector_number": "R03b"
@@ -5377,10 +5026,361 @@
             "set_code": "RAD",
             "set_name": "Radiance",
             "usd": null,
-            "usd_foil": null,
+            "usd_foil": 13.49,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/732645_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/732645/riftbound-league-of-legends-trading-card-game-radiance-order-rune-r06b",
             "collector_number": "R06b"
+          },
+          {
+            "id": "rift_732643",
+            "name": "Body Rune (R04b)",
+            "version": "R04b",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 10.8,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/732643_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/732643/riftbound-league-of-legends-trading-card-game-radiance-body-rune-r04b",
+            "collector_number": "R04b"
+          },
+          {
+            "id": "rift_722337",
+            "name": "Seraphine, Not Alone (K/DA Special Art Card)",
+            "version": "K/DA Special Art Card",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 10.34,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722337_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722337/riftbound-league-of-legends-trading-card-game-radiance-seraphine-not-alone-k-da-special-art-card",
+            "collector_number": "SP5/005"
+          },
+          {
+            "id": "rift_732647",
+            "name": "Calm Rune (R02b)",
+            "version": "R02b",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 8.65,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/732647_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/732647/riftbound-league-of-legends-trading-card-game-radiance-calm-rune-r02b",
+            "collector_number": "R02b"
+          },
+          {
+            "id": "rift_723220",
+            "name": "Riven, Deserter (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 5.37,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723220_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/723220/riftbound-league-of-legends-trading-card-game-radiance-riven-deserter-alternate-art",
+            "collector_number": "114a/167"
+          },
+          {
+            "id": "rift_722908",
+            "name": "Riven, Broken Blade (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 4.95,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722908_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722908/riftbound-league-of-legends-trading-card-game-radiance-riven-broken-blade-alternate-art",
+            "collector_number": "043a/167"
+          },
+          {
+            "id": "rift_722319",
+            "name": "Mordekaiser, Dominating (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 4.61,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722319_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722319/riftbound-league-of-legends-trading-card-game-radiance-mordekaiser-dominating-alternate-art",
+            "collector_number": "137a/167"
+          },
+          {
+            "id": "rift_722859",
+            "name": "Chaos Rune (R05a)",
+            "version": "R05a",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 4.25,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722859_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722859/riftbound-league-of-legends-trading-card-game-radiance-chaos-rune-r05a",
+            "collector_number": "R05a"
+          },
+          {
+            "id": "rift_722298",
+            "name": "Evelynn, Consuming (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 3.94,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722298_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722298/riftbound-league-of-legends-trading-card-game-radiance-evelynn-consuming-alternate-art",
+            "collector_number": "090a/167"
+          },
+          {
+            "id": "rift_722325",
+            "name": "Orianna, Mechanical Marvel (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 3.72,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722325_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722325/riftbound-league-of-legends-trading-card-game-radiance-orianna-mechanical-marvel-alternate-art",
+            "collector_number": "068a/167"
+          },
+          {
+            "id": "rift_722866",
+            "name": "Ekko, Revolutionary (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 3.71,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722866_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722866/riftbound-league-of-legends-trading-card-game-radiance-ekko-revolutionary-alternate-art",
+            "collector_number": "021a/167"
+          },
+          {
+            "id": "rift_722898",
+            "name": "Order Rune (R06a)",
+            "version": "R06a",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 3.66,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722898_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722898/riftbound-league-of-legends-trading-card-game-radiance-order-rune-r06a",
+            "collector_number": "R06a"
+          },
+          {
+            "id": "rift_723423",
+            "name": "Orianna, Exquisite (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 3.4,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723423_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/723423/riftbound-league-of-legends-trading-card-game-radiance-orianna-exquisite-alternate-art",
+            "collector_number": "042a/167"
+          },
+          {
+            "id": "rift_722282",
+            "name": "Calm Rune (R02a)",
+            "version": "R02a",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 3.34,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722282_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722282/riftbound-league-of-legends-trading-card-game-radiance-calm-rune-r02a",
+            "collector_number": "R02a"
+          },
+          {
+            "id": "rift_722336",
+            "name": "Seraphine, Not Alone (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 3.15,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722336_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722336/riftbound-league-of-legends-trading-card-game-radiance-seraphine-not-alone-alternate-art",
+            "collector_number": "138a/167"
+          },
+          {
+            "id": "rift_722316",
+            "name": "Mind Rune (R03a)",
+            "version": "R03a",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 3.12,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722316_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722316/riftbound-league-of-legends-trading-card-game-radiance-mind-rune-r03a",
+            "collector_number": "R03a"
+          },
+          {
+            "id": "rift_722347",
+            "name": "Ziggs, Short-Fused (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 2.98,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722347_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722347/riftbound-league-of-legends-trading-card-game-radiance-ziggs-short-fused-alternate-art",
+            "collector_number": "023a/167"
+          },
+          {
+            "id": "rift_722877",
+            "name": "Fury Rune (R01a)",
+            "version": "R01a",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 2.71,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722877_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722877/riftbound-league-of-legends-trading-card-game-radiance-fury-rune-r01a",
+            "collector_number": "R01a"
+          },
+          {
+            "id": "rift_722873",
+            "name": "Evelynn, In Control (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 2.42,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722873_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722873/riftbound-league-of-legends-trading-card-game-radiance-evelynn-in-control-alternate-art",
+            "collector_number": "109a/167"
+          },
+          {
+            "id": "rift_722888",
+            "name": "Jarvan IV, Martial Paragon (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 2.16,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722888_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722888/riftbound-league-of-legends-trading-card-game-radiance-jarvan-iv-martial-paragon-alternate-art",
+            "collector_number": "091a/167"
+          },
+          {
+            "id": "rift_722854",
+            "name": "Body Rune (R04a)",
+            "version": "R04a",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 2.13,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722854_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722854/riftbound-league-of-legends-trading-card-game-radiance-body-rune-r04a",
+            "collector_number": "R04a"
+          },
+          {
+            "id": "rift_722308",
+            "name": "K'Sante, Courageous (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 1.99,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722308_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722308/riftbound-league-of-legends-trading-card-game-radiance-ksante-courageous-alternate-art",
+            "collector_number": "086a/167"
+          },
+          {
+            "id": "rift_723227",
+            "name": "Ziggs, Explosive (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 1.6,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723227_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/723227/riftbound-league-of-legends-trading-card-game-radiance-ziggs-explosive-alternate-art",
+            "collector_number": "112a/167"
+          },
+          {
+            "id": "rift_722310",
+            "name": "K'Sante, Dauntless (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 1.56,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722310_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722310/riftbound-league-of-legends-trading-card-game-radiance-ksante-dauntless-alternate-art",
+            "collector_number": "045a/167"
+          },
+          {
+            "id": "rift_722295",
+            "name": "Ekko, Ingenious (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 1.22,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722295_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/722295/riftbound-league-of-legends-trading-card-game-radiance-ekko-ingenious-alternate-art",
+            "collector_number": "061a/167"
+          },
+          {
+            "id": "rift_723214",
+            "name": "Mordekaiser, Twice Slain (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 0.91,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723214_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/723214/riftbound-league-of-legends-trading-card-game-radiance-mordekaiser-twice-slain-alternate-art",
+            "collector_number": "020a/167"
+          },
+          {
+            "id": "rift_723429",
+            "name": "Seraphine, Inspiring (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 0.79,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723429_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/723429/riftbound-league-of-legends-trading-card-game-radiance-seraphine-inspiring-alternate-art",
+            "collector_number": "065a/167"
+          },
+          {
+            "id": "rift_723210",
+            "name": "Jarvan IV, Royal Heir (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "RAD",
+            "set_name": "Radiance",
+            "usd": null,
+            "usd_foil": 0.78,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723210_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/723210/riftbound-league-of-legends-trading-card-game-radiance-jarvan-iv-royal-heir-alternate-art",
+            "collector_number": "133a/167"
           }
         ]
       },
@@ -5565,7 +5565,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 141.09,
+            "usd_foil": 139.69,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706091_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706091/riftbound-league-of-legends-trading-card-game-vendetta-rengar-trophy-hunter-overnumbered",
             "collector_number": "179/166"
@@ -5578,23 +5578,10 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 130.6,
+            "usd_foil": 129.6,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707650_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/707650/riftbound-league-of-legends-trading-card-game-vendetta-kayle-justified-overnumbered",
             "collector_number": "185/166"
-          },
-          {
-            "id": "rift_706111",
-            "name": "Mel, Soul's Reflection (Overnumbered)",
-            "version": "Overnumbered",
-            "rarity": "Showcase",
-            "set_code": "VEN",
-            "set_name": "Vendetta",
-            "usd": null,
-            "usd_foil": 128.52,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706111_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/706111/riftbound-league-of-legends-trading-card-game-vendetta-mel-souls-reflection-overnumbered",
-            "collector_number": "195/166"
           },
           {
             "id": "rift_706014",
@@ -5610,6 +5597,19 @@
             "collector_number": "192/166"
           },
           {
+            "id": "rift_706111",
+            "name": "Mel, Soul's Reflection (Overnumbered)",
+            "version": "Overnumbered",
+            "rarity": "Showcase",
+            "set_code": "VEN",
+            "set_name": "Vendetta",
+            "usd": null,
+            "usd_foil": 122.46,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706111_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/706111/riftbound-league-of-legends-trading-card-game-vendetta-mel-souls-reflection-overnumbered",
+            "collector_number": "195/166"
+          },
+          {
             "id": "rift_707646",
             "name": "Irelia, Fervent (Overnumbered)",
             "version": "Overnumbered",
@@ -5617,7 +5617,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 119.97,
+            "usd_foil": 105.37,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707646_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/707646/riftbound-league-of-legends-trading-card-game-vendetta-irelia-fervent-overnumbered",
             "collector_number": "174/166"
@@ -5643,7 +5643,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 87.62,
+            "usd_foil": 86.1,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706118_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706118/riftbound-league-of-legends-trading-card-game-vendetta-vi-destructive-overnumbered",
             "collector_number": "167/166"
@@ -5662,19 +5662,6 @@
             "collector_number": "175/166"
           },
           {
-            "id": "rift_707678",
-            "name": "Riven, Shattered (Overnumbered)",
-            "version": "Overnumbered",
-            "rarity": "Showcase",
-            "set_code": "VEN",
-            "set_name": "Vendetta",
-            "usd": null,
-            "usd_foil": 79.76,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707678_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/707678/riftbound-league-of-legends-trading-card-game-vendetta-riven-shattered-overnumbered",
-            "collector_number": "171/166"
-          },
-          {
             "id": "rift_707627",
             "name": "Diana, No Longer Human (Overnumbered)",
             "version": "Overnumbered",
@@ -5688,6 +5675,19 @@
             "collector_number": "183/166"
           },
           {
+            "id": "rift_707678",
+            "name": "Riven, Shattered (Overnumbered)",
+            "version": "Overnumbered",
+            "rarity": "Showcase",
+            "set_code": "VEN",
+            "set_name": "Vendetta",
+            "usd": null,
+            "usd_foil": 78.78,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707678_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/707678/riftbound-league-of-legends-trading-card-game-vendetta-riven-shattered-overnumbered",
+            "collector_number": "171/166"
+          },
+          {
             "id": "rift_706039",
             "name": "Illaoi, Prophet of the Great Kraken (Overnumbered)",
             "version": "Overnumbered",
@@ -5695,7 +5695,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 78.14,
+            "usd_foil": 77.31,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706039_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706039/riftbound-league-of-legends-trading-card-game-vendetta-illaoi-prophet-of-the-great-kraken-overnumbered",
             "collector_number": "182/166"
@@ -5747,7 +5747,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 76,
+            "usd_foil": 75.43,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707648_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/707648/riftbound-league-of-legends-trading-card-game-vendetta-kaisa-survivor",
             "collector_number": "SP1/006"
@@ -5799,7 +5799,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 60.91,
+            "usd_foil": 60.6,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706029_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706029/riftbound-league-of-legends-trading-card-game-vendetta-gangplank-naval-overnumbered",
             "collector_number": "181/166"
@@ -5818,19 +5818,6 @@
             "collector_number": "188/166"
           },
           {
-            "id": "rift_707675",
-            "name": "Renekton, Brute (Overnumbered)",
-            "version": "Overnumbered",
-            "rarity": "Showcase",
-            "set_code": "VEN",
-            "set_name": "Vendetta",
-            "usd": null,
-            "usd_foil": 56.04,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707675_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/707675/riftbound-league-of-legends-trading-card-game-vendetta-renekton-brute-overnumbered",
-            "collector_number": "177/166"
-          },
-          {
             "id": "rift_707662",
             "name": "Nasus, Guardian of Knowledge (Overnumbered)",
             "version": "Overnumbered",
@@ -5844,6 +5831,19 @@
             "collector_number": "178/166"
           },
           {
+            "id": "rift_707675",
+            "name": "Renekton, Brute (Overnumbered)",
+            "version": "Overnumbered",
+            "rarity": "Showcase",
+            "set_code": "VEN",
+            "set_name": "Vendetta",
+            "usd": null,
+            "usd_foil": 54.6,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707675_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/707675/riftbound-league-of-legends-trading-card-game-vendetta-renekton-brute-overnumbered",
+            "collector_number": "177/166"
+          },
+          {
             "id": "rift_706052",
             "name": "Kha'Zix, Evolving Hunter (Overnumbered)",
             "version": "Overnumbered",
@@ -5851,23 +5851,10 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 49.66,
+            "usd_foil": 49.04,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706052_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706052/riftbound-league-of-legends-trading-card-game-vendetta-khazix-evolving-hunter-overnumbered",
             "collector_number": "180/166"
-          },
-          {
-            "id": "rift_707693",
-            "name": "Swain, Visionary (Overnumbered)",
-            "version": "Overnumbered",
-            "rarity": "Showcase",
-            "set_code": "VEN",
-            "set_name": "Vendetta",
-            "usd": null,
-            "usd_foil": 49.63,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707693_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/707693/riftbound-league-of-legends-trading-card-game-vendetta-swain-visionary-overnumbered",
-            "collector_number": "173/166"
           },
           {
             "id": "rift_706123",
@@ -5877,10 +5864,23 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 49.61,
+            "usd_foil": 49.01,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706123_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706123/riftbound-league-of-legends-trading-card-game-vendetta-zed-from-the-shadows-overnumbered",
             "collector_number": "169/166"
+          },
+          {
+            "id": "rift_707693",
+            "name": "Swain, Visionary (Overnumbered)",
+            "version": "Overnumbered",
+            "rarity": "Showcase",
+            "set_code": "VEN",
+            "set_name": "Vendetta",
+            "usd": null,
+            "usd_foil": 48.09,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707693_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/707693/riftbound-league-of-legends-trading-card-game-vendetta-swain-visionary-overnumbered",
+            "collector_number": "173/166"
           },
           {
             "id": "rift_706009",
@@ -5890,7 +5890,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 48.11,
+            "usd_foil": 47.79,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706009_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706009/riftbound-league-of-legends-trading-card-game-vendetta-renekton-butcher-of-the-sands-overnumbered",
             "collector_number": "190/166"
@@ -5909,19 +5909,6 @@
             "collector_number": "170/166"
           },
           {
-            "id": "rift_705996",
-            "name": "Ahri, Inquisitive",
-            "version": "N/A",
-            "rarity": "Showcase",
-            "set_code": "VEN",
-            "set_name": "Vendetta",
-            "usd": null,
-            "usd_foil": 35.46,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/705996_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/705996/riftbound-league-of-legends-trading-card-game-vendetta-ahri-inquisitive",
-            "collector_number": "SP3/006"
-          },
-          {
             "id": "rift_707607",
             "name": "Ambessa, Respected and Feared (Overnumbered)",
             "version": "Overnumbered",
@@ -5933,6 +5920,19 @@
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707607_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/707607/riftbound-league-of-legends-trading-card-game-vendetta-ambessa-respected-and-feared-overnumbered",
             "collector_number": "187/166"
+          },
+          {
+            "id": "rift_705996",
+            "name": "Ahri, Inquisitive",
+            "version": "N/A",
+            "rarity": "Showcase",
+            "set_code": "VEN",
+            "set_name": "Vendetta",
+            "usd": null,
+            "usd_foil": 33.52,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/705996_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/705996/riftbound-league-of-legends-trading-card-game-vendetta-ahri-inquisitive",
+            "collector_number": "SP3/006"
           },
           {
             "id": "rift_706110",
@@ -5955,7 +5955,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 16.15,
+            "usd_foil": 16.07,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706026_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706026/riftbound-league-of-legends-trading-card-game-vendetta-ezreal-prodigy",
             "collector_number": "SP5/006"
@@ -5968,7 +5968,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 13.15,
+            "usd_foil": 13.04,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706057_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706057/riftbound-league-of-legends-trading-card-game-vendetta-lux-crownguard",
             "collector_number": "SP6/006"
@@ -5981,7 +5981,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 10.24,
+            "usd_foil": 10.19,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709311_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/709311/riftbound-league-of-legends-trading-card-game-vendetta-chaos-rune-r05a",
             "collector_number": "R05a"
@@ -5994,7 +5994,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 7.88,
+            "usd_foil": 7.99,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709312_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/709312/riftbound-league-of-legends-trading-card-game-vendetta-fury-rune-r01a",
             "collector_number": "R01a"
@@ -6007,7 +6007,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 7.88,
+            "usd_foil": 7.77,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706098_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706098/riftbound-league-of-legends-trading-card-game-vendetta-sett-brawler",
             "collector_number": "SP4/006"
@@ -6020,23 +6020,10 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 6.38,
+            "usd_foil": 6.39,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709310_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/709310/riftbound-league-of-legends-trading-card-game-vendetta-calm-rune-r02a",
             "collector_number": "R02a"
-          },
-          {
-            "id": "rift_705997",
-            "name": "Akali, Deadly Weapon (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "VEN",
-            "set_name": "Vendetta",
-            "usd": null,
-            "usd_foil": 5.41,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/705997_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/705997/riftbound-league-of-legends-trading-card-game-vendetta-akali-deadly-weapon-alternate-art",
-            "collector_number": "021a/166"
           },
           {
             "id": "rift_709309",
@@ -6046,10 +6033,23 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 5.28,
+            "usd_foil": 5.36,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709309_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/709309/riftbound-league-of-legends-trading-card-game-vendetta-body-rune-r04a",
             "collector_number": "R04a"
+          },
+          {
+            "id": "rift_705997",
+            "name": "Akali, Deadly Weapon (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "VEN",
+            "set_name": "Vendetta",
+            "usd": null,
+            "usd_foil": 5.08,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/705997_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/705997/riftbound-league-of-legends-trading-card-game-vendetta-akali-deadly-weapon-alternate-art",
+            "collector_number": "021a/166"
           },
           {
             "id": "rift_705999",
@@ -6059,7 +6059,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 5.04,
+            "usd_foil": 4.97,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/705999_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/705999/riftbound-league-of-legends-trading-card-game-vendetta-akali-silent-alternate-art",
             "collector_number": "038a/166"
@@ -6072,7 +6072,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 4.78,
+            "usd_foil": 4.63,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709314_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/709314/riftbound-league-of-legends-trading-card-game-vendetta-order-rune-r06a",
             "collector_number": "R06a"
@@ -6085,7 +6085,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 4.69,
+            "usd_foil": 4.56,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709313_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/709313/riftbound-league-of-legends-trading-card-game-vendetta-mind-rune-r03a",
             "collector_number": "R03a"
@@ -6098,7 +6098,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 2.98,
+            "usd_foil": 2.89,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706049_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706049/riftbound-league-of-legends-trading-card-game-vendetta-kennen-keeper-of-balance-alternate-art",
             "collector_number": "135a/166"
@@ -6111,7 +6111,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 1.99,
+            "usd_foil": 1.98,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706126_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706126/riftbound-league-of-legends-trading-card-game-vendetta-zed-without-a-sound-alternate-art",
             "collector_number": "112a/166"
@@ -6124,7 +6124,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 1.98,
+            "usd_foil": 1.97,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707651_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/707651/riftbound-league-of-legends-trading-card-game-vendetta-kennen-storm-of-shuriken-alternate-art",
             "collector_number": "113a/166"
@@ -6137,7 +6137,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 1.53,
+            "usd_foil": 1.54,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706065_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706065/riftbound-league-of-legends-trading-card-game-vendetta-mel-newly-awakened-alternate-art",
             "collector_number": "069a/166"
@@ -6156,19 +6156,6 @@
             "collector_number": "023a/166"
           },
           {
-            "id": "rift_707609",
-            "name": "Ambessa, The Wolf (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "VEN",
-            "set_name": "Vendetta",
-            "usd": null,
-            "usd_foil": 1.13,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707609_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/707609/riftbound-league-of-legends-trading-card-game-vendetta-ambessa-the-wolf-alternate-art",
-            "collector_number": "084a/166"
-          },
-          {
             "id": "rift_706002",
             "name": "Ambessa, Respected and Feared (Alternate Art)",
             "version": "Alternate Art",
@@ -6176,10 +6163,23 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 1.11,
+            "usd_foil": 1.18,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706002_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706002/riftbound-league-of-legends-trading-card-game-vendetta-ambessa-respected-and-feared-alternate-art",
             "collector_number": "136a/166"
+          },
+          {
+            "id": "rift_707609",
+            "name": "Ambessa, The Wolf (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "VEN",
+            "set_name": "Vendetta",
+            "usd": null,
+            "usd_foil": 1.11,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707609_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/707609/riftbound-league-of-legends-trading-card-game-vendetta-ambessa-the-wolf-alternate-art",
+            "collector_number": "084a/166"
           },
           {
             "id": "rift_706103",
@@ -6202,7 +6202,7 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 1.01,
+            "usd_foil": 1.03,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706071_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706071/riftbound-league-of-legends-trading-card-game-vendetta-nasus-ascended-alternate-art",
             "collector_number": "046a/166"
@@ -6215,23 +6215,10 @@
             "set_code": "VEN",
             "set_name": "Vendetta",
             "usd": null,
-            "usd_foil": 0.88,
+            "usd_foil": 0.9,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707673_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/707673/riftbound-league-of-legends-trading-card-game-vendetta-renekton-brute-alternate-art",
             "collector_number": "092a/166"
-          },
-          {
-            "id": "rift_706073",
-            "name": "Nasus, Guardian of Knowledge (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "VEN",
-            "set_name": "Vendetta",
-            "usd": null,
-            "usd_foil": 0.79,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706073_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/706073/riftbound-league-of-legends-trading-card-game-vendetta-nasus-guardian-of-knowledge-alternate-art",
-            "collector_number": "063a/166"
           },
           {
             "id": "rift_706062",
@@ -6245,6 +6232,19 @@
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706062_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/706062/riftbound-league-of-legends-trading-card-game-vendetta-mel-defiant-soul-alternate-art",
             "collector_number": "110a/166"
+          },
+          {
+            "id": "rift_706073",
+            "name": "Nasus, Guardian of Knowledge (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "VEN",
+            "set_name": "Vendetta",
+            "usd": null,
+            "usd_foil": 0.77,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706073_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/706073/riftbound-league-of-legends-trading-card-game-vendetta-nasus-guardian-of-knowledge-alternate-art",
+            "collector_number": "063a/166"
           },
           {
             "id": "rift_706105",
@@ -6468,7 +6468,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 181.19,
+            "usd_foil": 177.68,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684505_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684505/riftbound-league-of-legends-trading-card-game-unleashed-diana-scorn-of-the-moon-overnumbered",
             "collector_number": "234/219"
@@ -6559,7 +6559,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 132.43,
+            "usd_foil": 130.47,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685608_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685608/riftbound-league-of-legends-trading-card-game-unleashed-leblanc-deceiver-overnumbered",
             "collector_number": "235/219"
@@ -6572,7 +6572,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 95.85,
+            "usd_foil": 93.69,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685603_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685603/riftbound-league-of-legends-trading-card-game-unleashed-rengar-pridestalker-overnumbered",
             "collector_number": "227/219"
@@ -6585,7 +6585,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 75.87,
+            "usd_foil": 74.37,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685604_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685604/riftbound-league-of-legends-trading-card-game-unleashed-pyke-bloodharbor-ripper-overnumbered",
             "collector_number": "228/219"
@@ -6598,7 +6598,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 74.09,
+            "usd_foil": 72.54,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685521_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685521/riftbound-league-of-legends-trading-card-game-unleashed-vi-piltover-enforcer-overnumbered",
             "collector_number": "229/219"
@@ -6611,7 +6611,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 68.02,
+            "usd_foil": 68.33,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684507_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684507/riftbound-league-of-legends-trading-card-game-unleashed-khazix-voidreaver-overnumbered",
             "collector_number": "236/219"
@@ -6624,7 +6624,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 60,
+            "usd_foil": 59.93,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685602_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685602/riftbound-league-of-legends-trading-card-game-unleashed-jhin-virtuoso-overnumbered",
             "collector_number": "226/219"
@@ -6650,23 +6650,10 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 53.7,
+            "usd_foil": 52.82,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684501_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684501/riftbound-league-of-legends-trading-card-game-unleashed-lillia-bashful-bloom-overnumbered",
             "collector_number": "230/219"
-          },
-          {
-            "id": "rift_684211",
-            "name": "Baron Nashor (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "UNL",
-            "set_name": "Unleashed",
-            "usd": null,
-            "usd_foil": 40.89,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684211_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/684211/riftbound-league-of-legends-trading-card-game-unleashed-baron-nashor-alternate-art",
-            "collector_number": "147a/219"
           },
           {
             "id": "rift_684517",
@@ -6682,6 +6669,19 @@
             "collector_number": "237/219"
           },
           {
+            "id": "rift_684211",
+            "name": "Baron Nashor (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "UNL",
+            "set_name": "Unleashed",
+            "usd": null,
+            "usd_foil": 40.64,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684211_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/684211/riftbound-league-of-legends-trading-card-game-unleashed-baron-nashor-alternate-art",
+            "collector_number": "147a/219"
+          },
+          {
             "id": "rift_684216",
             "name": "Rengar, Trophy Hunter (Alternate Art)",
             "version": "Alternate Art",
@@ -6689,7 +6689,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 39.32,
+            "usd_foil": 39.41,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684216_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684216/riftbound-league-of-legends-trading-card-game-unleashed-rengar-trophy-hunter-alternate-art",
             "collector_number": "120a/219"
@@ -6702,7 +6702,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 35.96,
+            "usd_foil": 35.5,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685527_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685527/riftbound-league-of-legends-trading-card-game-unleashed-master-yi-wuju-master-overnumbered",
             "collector_number": "231/219"
@@ -6715,7 +6715,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 34.72,
+            "usd_foil": 34.3,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685950_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685950/riftbound-league-of-legends-trading-card-game-unleashed-vex-apathetic-alternate-art",
             "collector_number": "150a/219"
@@ -6728,7 +6728,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 21.46,
+            "usd_foil": 21.54,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684656_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684656/riftbound-league-of-legends-trading-card-game-unleashed-elder-dragon-alternate-art",
             "collector_number": "118a/219"
@@ -6741,7 +6741,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 18.22,
+            "usd_foil": 18.32,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685004_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685004/riftbound-league-of-legends-trading-card-game-unleashed-pyke-dockside-butcher-alternate-art",
             "collector_number": "028a/219"
@@ -6754,7 +6754,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 15.56,
+            "usd_foil": 14.8,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684492_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684492/riftbound-league-of-legends-trading-card-game-unleashed-vilemaw-alternate-art",
             "collector_number": "060a/219"
@@ -6767,7 +6767,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 13.19,
+            "usd_foil": 13.28,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685028_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685028/riftbound-league-of-legends-trading-card-game-unleashed-rift-herald-alternate-art",
             "collector_number": "179a/219"
@@ -6780,7 +6780,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 12.87,
+            "usd_foil": 12.79,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685596_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685596/riftbound-league-of-legends-trading-card-game-unleashed-vi-peacekeeper-alternate-art",
             "collector_number": "176a/219"
@@ -6793,7 +6793,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 10.41,
+            "usd_foil": 10.09,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684608_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684608/riftbound-league-of-legends-trading-card-game-unleashed-pyke-returned-alternate-art",
             "collector_number": "145a/219"
@@ -6806,7 +6806,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 9.78,
+            "usd_foil": 9.71,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692933_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/692933/riftbound-league-of-legends-trading-card-game-unleashed-calm-rune-r02a",
             "collector_number": "R02a"
@@ -6819,7 +6819,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 8.89,
+            "usd_foil": 8.95,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692936_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/692936/riftbound-league-of-legends-trading-card-game-unleashed-chaos-rune-r05a",
             "collector_number": "R05a"
@@ -6871,7 +6871,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 4.71,
+            "usd_foil": 4.72,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685491_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685491/riftbound-league-of-legends-trading-card-game-unleashed-khazix-mutating-horror-alternate-art",
             "collector_number": "143a/219"
@@ -6884,7 +6884,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 4.52,
+            "usd_foil": 4.43,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692935_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/692935/riftbound-league-of-legends-trading-card-game-unleashed-body-rune-r04a",
             "collector_number": "R04a"
@@ -6897,7 +6897,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 4.38,
+            "usd_foil": 4.4,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692932_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/692932/riftbound-league-of-legends-trading-card-game-unleashed-fury-rune-r01a",
             "collector_number": "R01a"
@@ -6910,23 +6910,10 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 4.29,
+            "usd_foil": 4.23,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684496_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684496/riftbound-league-of-legends-trading-card-game-unleashed-diana-no-longer-human-alternate-art",
             "collector_number": "149a/219"
-          },
-          {
-            "id": "rift_692937",
-            "name": "Order Rune (R06a)",
-            "version": "R06a",
-            "rarity": "Showcase",
-            "set_code": "UNL",
-            "set_name": "Unleashed",
-            "usd": null,
-            "usd_foil": 4.12,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692937_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/692937/riftbound-league-of-legends-trading-card-game-unleashed-order-rune-r06a",
-            "collector_number": "R06a"
           },
           {
             "id": "rift_692934",
@@ -6936,10 +6923,23 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 3.91,
+            "usd_foil": 4.12,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692934_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/692934/riftbound-league-of-legends-trading-card-game-unleashed-mind-rune-r03a",
             "collector_number": "R03a"
+          },
+          {
+            "id": "rift_692937",
+            "name": "Order Rune (R06a)",
+            "version": "R06a",
+            "rarity": "Showcase",
+            "set_code": "UNL",
+            "set_name": "Unleashed",
+            "usd": null,
+            "usd_foil": 3.95,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692937_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/692937/riftbound-league-of-legends-trading-card-game-unleashed-order-rune-r06a",
+            "collector_number": "R06a"
           },
           {
             "id": "rift_685523",
@@ -6949,7 +6949,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 3.81,
+            "usd_foil": 3.9,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685523_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685523/riftbound-league-of-legends-trading-card-game-unleashed-diana-lunari-alternate-art",
             "collector_number": "079a/219"
@@ -6975,7 +6975,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 3.61,
+            "usd_foil": 3.53,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684490_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684490/riftbound-league-of-legends-trading-card-game-unleashed-jhin-murderous-artist-alternate-art",
             "collector_number": "022a/219"
@@ -6988,7 +6988,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 3.31,
+            "usd_foil": 3.24,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684482_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684482/riftbound-league-of-legends-trading-card-game-unleashed-jhin-meticulous-killer-alternate-art",
             "collector_number": "089a/219"
@@ -7014,7 +7014,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 2.63,
+            "usd_foil": 2.57,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685569_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685569/riftbound-league-of-legends-trading-card-game-unleashed-leblanc-fragmented-alternate-art",
             "collector_number": "172a/219"
@@ -7027,7 +7027,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 2.59,
+            "usd_foil": 2.57,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684601_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684601/riftbound-league-of-legends-trading-card-game-unleashed-master-yi-tempered-alternate-art",
             "collector_number": "113a/219"
@@ -7040,7 +7040,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 2.52,
+            "usd_foil": 2.47,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684593_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684593/riftbound-league-of-legends-trading-card-game-unleashed-blue-sentinel-alternate-art",
             "collector_number": "087a/219"
@@ -7053,7 +7053,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 2.29,
+            "usd_foil": 2.32,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684491_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684491/riftbound-league-of-legends-trading-card-game-unleashed-master-yi-unstoppable-alternate-art",
             "collector_number": "059a/219"
@@ -7079,7 +7079,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 1.85,
+            "usd_foil": 1.81,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685588_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685588/riftbound-league-of-legends-trading-card-game-unleashed-red-brambleback-alternate-art",
             "collector_number": "029a/219"
@@ -7105,7 +7105,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 1.69,
+            "usd_foil": 1.68,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684603_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684603/riftbound-league-of-legends-trading-card-game-unleashed-khazix-evolving-hunter-alternate-art",
             "collector_number": "119a/219"
@@ -7131,7 +7131,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 1.5,
+            "usd_foil": 1.49,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685591_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/685591/riftbound-league-of-legends-trading-card-game-unleashed-poppy-paragon-alternate-art",
             "collector_number": "116a/219"
@@ -7144,7 +7144,7 @@
             "set_code": "UNL",
             "set_name": "Unleashed",
             "usd": null,
-            "usd_foil": 1.31,
+            "usd_foil": 1.28,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684595_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/684595/riftbound-league-of-legends-trading-card-game-unleashed-ivern-nurturer-alternate-art",
             "collector_number": "051a/219"
@@ -7345,7 +7345,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 172.32,
+            "usd_foil": 170.6,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/664937_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/664937/riftbound-league-of-legends-trading-card-game-spiritforged-vayne-hunter-overnumbered",
             "collector_number": "223/221"
@@ -7397,7 +7397,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 106.44,
+            "usd_foil": 105.18,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666781_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/666781/riftbound-league-of-legends-trading-card-game-spiritforged-azir-emperor-of-the-sands-overnumbered",
             "collector_number": "247/221"
@@ -7423,7 +7423,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 94.1,
+            "usd_foil": 93.01,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666780_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/666780/riftbound-league-of-legends-trading-card-game-spiritforged-ezreal-prodigal-explorer-overnumbered",
             "collector_number": "248/221"
@@ -7436,7 +7436,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 82.38,
+            "usd_foil": 81.6,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/665133_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/665133/riftbound-league-of-legends-trading-card-game-spiritforged-draven-glorious-executioner-overnumbered",
             "collector_number": "242/221"
@@ -7462,7 +7462,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 77.85,
+            "usd_foil": 77.45,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/664933_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/664933/riftbound-league-of-legends-trading-card-game-spiritforged-ornn-fire-below-the-mountain-overnumbered",
             "collector_number": "244/221"
@@ -7475,23 +7475,10 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 70.2,
+            "usd_foil": 67.96,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666465_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/666465/riftbound-league-of-legends-trading-card-game-spiritforged-reksai-void-burrower-overnumbered",
             "collector_number": "243/221"
-          },
-          {
-            "id": "rift_666468",
-            "name": "Yone, Blademaster (Overnumbered)",
-            "version": "Overnumbered",
-            "rarity": "Showcase",
-            "set_code": "SFD",
-            "set_name": "Spiritforged",
-            "usd": null,
-            "usd_foil": 66.97,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666468_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/666468/riftbound-league-of-legends-trading-card-game-spiritforged-yone-blademaster-overnumbered",
-            "collector_number": "233/221"
           },
           {
             "id": "rift_666788",
@@ -7501,10 +7488,23 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 66.47,
+            "usd_foil": 65.95,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666788_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/666788/riftbound-league-of-legends-trading-card-game-spiritforged-aphelios-exalted-overnumbered",
             "collector_number": "224/221"
+          },
+          {
+            "id": "rift_666468",
+            "name": "Yone, Blademaster (Overnumbered)",
+            "version": "Overnumbered",
+            "rarity": "Showcase",
+            "set_code": "SFD",
+            "set_name": "Spiritforged",
+            "usd": null,
+            "usd_foil": 65.93,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666468_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/666468/riftbound-league-of-legends-trading-card-game-spiritforged-yone-blademaster-overnumbered",
+            "collector_number": "233/221"
           },
           {
             "id": "rift_664942",
@@ -7553,23 +7553,10 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 57.47,
+            "usd_foil": 56.79,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668210_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/668210/riftbound-league-of-legends-trading-card-game-spiritforged-yasuo-windrider-overnumbered",
             "collector_number": "235/221"
-          },
-          {
-            "id": "rift_666467",
-            "name": "Lucian, Purifier (Overnumbered)",
-            "version": "Overnumbered",
-            "rarity": "Showcase",
-            "set_code": "SFD",
-            "set_name": "Spiritforged",
-            "usd": null,
-            "usd_foil": 52.55,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666467_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/666467/riftbound-league-of-legends-trading-card-game-spiritforged-lucian-purifier-overnumbered",
-            "collector_number": "241/221"
           },
           {
             "id": "rift_666785",
@@ -7579,10 +7566,23 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 52.34,
+            "usd_foil": 51.81,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666785_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/666785/riftbound-league-of-legends-trading-card-game-spiritforged-seal-of-unity-overnumbered",
             "collector_number": "238/221"
+          },
+          {
+            "id": "rift_666467",
+            "name": "Lucian, Purifier (Overnumbered)",
+            "version": "Overnumbered",
+            "rarity": "Showcase",
+            "set_code": "SFD",
+            "set_name": "Spiritforged",
+            "usd": null,
+            "usd_foil": 51.7,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666467_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/666467/riftbound-league-of-legends-trading-card-game-spiritforged-lucian-purifier-overnumbered",
+            "collector_number": "241/221"
           },
           {
             "id": "rift_666782",
@@ -7592,7 +7592,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 52.16,
+            "usd_foil": 51.41,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666782_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/666782/riftbound-league-of-legends-trading-card-game-spiritforged-jax-grandmaster-at-arms-overnumbered",
             "collector_number": "245/221"
@@ -7605,7 +7605,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 50.84,
+            "usd_foil": 49.64,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/664940_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/664940/riftbound-league-of-legends-trading-card-game-spiritforged-sett-brawler-overnumbered",
             "collector_number": "232/221"
@@ -7637,19 +7637,6 @@
             "collector_number": "229/221"
           },
           {
-            "id": "rift_665644",
-            "name": "Darius, Executioner (Overnumbered)",
-            "version": "Overnumbered",
-            "rarity": "Showcase",
-            "set_code": "SFD",
-            "set_name": "Spiritforged",
-            "usd": null,
-            "usd_foil": 43.9,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/665644_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/665644/riftbound-league-of-legends-trading-card-game-spiritforged-darius-executioner-overnumbered",
-            "collector_number": "236/221"
-          },
-          {
             "id": "rift_668209",
             "name": "Karma, Channeler (Overnumbered)",
             "version": "Overnumbered",
@@ -7657,10 +7644,23 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 43.78,
+            "usd_foil": 43.47,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668209_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/668209/riftbound-league-of-legends-trading-card-game-spiritforged-karma-channeler-overnumbered",
             "collector_number": "237/221"
+          },
+          {
+            "id": "rift_665644",
+            "name": "Darius, Executioner (Overnumbered)",
+            "version": "Overnumbered",
+            "rarity": "Showcase",
+            "set_code": "SFD",
+            "set_name": "Spiritforged",
+            "usd": null,
+            "usd_foil": 43.34,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/665644_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/665644/riftbound-league-of-legends-trading-card-game-spiritforged-darius-executioner-overnumbered",
+            "collector_number": "236/221"
           },
           {
             "id": "rift_666779",
@@ -7683,7 +7683,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 36.88,
+            "usd_foil": 36.32,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/664883_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/664883/riftbound-league-of-legends-trading-card-game-spiritforged-renata-glasc-chem-baroness-overnumbered",
             "collector_number": "249/221"
@@ -7709,7 +7709,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 14.53,
+            "usd_foil": 14.55,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/664886_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/664886/riftbound-league-of-legends-trading-card-game-spiritforged-irelia-fervent-alternate-art",
             "collector_number": "057a/221"
@@ -7722,7 +7722,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 10.57,
+            "usd_foil": 10.53,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666826_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/666826/riftbound-league-of-legends-trading-card-game-spiritforged-ezreal-prodigy-alternate-art",
             "collector_number": "149a/221"
@@ -7735,36 +7735,10 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 5.69,
+            "usd_foil": 5.4,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678227_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/678227/riftbound-league-of-legends-trading-card-game-spiritforged-calm-rune-r02a",
             "collector_number": "R02a"
-          },
-          {
-            "id": "rift_666474",
-            "name": "Azir, Sovereign (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "SFD",
-            "set_name": "Spiritforged",
-            "usd": null,
-            "usd_foil": 5.04,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666474_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/666474/riftbound-league-of-legends-trading-card-game-spiritforged-azir-sovereign-alternate-art",
-            "collector_number": "177a/221"
-          },
-          {
-            "id": "rift_666721",
-            "name": "Rek'Sai, Breacher (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "SFD",
-            "set_name": "Spiritforged",
-            "usd": null,
-            "usd_foil": 4.96,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666721_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/666721/riftbound-league-of-legends-trading-card-game-spiritforged-reksai-breacher-alternate-art",
-            "collector_number": "029a/221"
           },
           {
             "id": "rift_678232",
@@ -7774,7 +7748,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 4.95,
+            "usd_foil": 5.26,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678232_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/678232/riftbound-league-of-legends-trading-card-game-spiritforged-chaos-rune-r05a",
             "collector_number": "R05a"
@@ -7787,10 +7761,36 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 4.84,
+            "usd_foil": 5.12,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678229_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/678229/riftbound-league-of-legends-trading-card-game-spiritforged-mind-rune-r03a",
             "collector_number": "R03a"
+          },
+          {
+            "id": "rift_666721",
+            "name": "Rek'Sai, Breacher (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "SFD",
+            "set_name": "Spiritforged",
+            "usd": null,
+            "usd_foil": 5.08,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666721_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/666721/riftbound-league-of-legends-trading-card-game-spiritforged-reksai-breacher-alternate-art",
+            "collector_number": "029a/221"
+          },
+          {
+            "id": "rift_666474",
+            "name": "Azir, Sovereign (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "SFD",
+            "set_name": "Spiritforged",
+            "usd": null,
+            "usd_foil": 5.03,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666474_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/666474/riftbound-league-of-legends-trading-card-game-spiritforged-azir-sovereign-alternate-art",
+            "collector_number": "177a/221"
           },
           {
             "id": "rift_678233",
@@ -7800,7 +7800,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 4.05,
+            "usd_foil": 4.24,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678233_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/678233/riftbound-league-of-legends-trading-card-game-spiritforged-order-rune-r06a",
             "collector_number": "R06a"
@@ -7839,7 +7839,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 2.44,
+            "usd_foil": 2.43,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666595_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/666595/riftbound-league-of-legends-trading-card-game-spiritforged-fiora-peerless-alternate-art",
             "collector_number": "110a/221"
@@ -7852,7 +7852,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 2.13,
+            "usd_foil": 2.18,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678224_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/678224/riftbound-league-of-legends-trading-card-game-spiritforged-fury-rune-r01a",
             "collector_number": "R01a"
@@ -7865,23 +7865,10 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 2.12,
+            "usd_foil": 2.1,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678231_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/678231/riftbound-league-of-legends-trading-card-game-spiritforged-body-rune-r04a",
             "collector_number": "R04a"
-          },
-          {
-            "id": "rift_666415",
-            "name": "Ornn, Blacksmith (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "SFD",
-            "set_name": "Spiritforged",
-            "usd": null,
-            "usd_foil": 1.8,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666415_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/666415/riftbound-league-of-legends-trading-card-game-spiritforged-ornn-blacksmith-alternate-art",
-            "collector_number": "058a/221"
           },
           {
             "id": "rift_666867",
@@ -7891,10 +7878,23 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 1.8,
+            "usd_foil": 1.76,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666867_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/666867/riftbound-league-of-legends-trading-card-game-spiritforged-renata-glasc-mastermind-alternate-art",
             "collector_number": "088a/221"
+          },
+          {
+            "id": "rift_666415",
+            "name": "Ornn, Blacksmith (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "SFD",
+            "set_name": "Spiritforged",
+            "usd": null,
+            "usd_foil": 1.73,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666415_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/666415/riftbound-league-of-legends-trading-card-game-spiritforged-ornn-blacksmith-alternate-art",
+            "collector_number": "058a/221"
           },
           {
             "id": "rift_665028",
@@ -7904,23 +7904,10 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 1.55,
+            "usd_foil": 1.49,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/665028_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/665028/riftbound-league-of-legends-trading-card-game-spiritforged-draven-audacious-alternate-art",
             "collector_number": "148a/221"
-          },
-          {
-            "id": "rift_666590",
-            "name": "Rumble, Scrapper (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "SFD",
-            "set_name": "Spiritforged",
-            "usd": null,
-            "usd_foil": 1.1,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666590_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/666590/riftbound-league-of-legends-trading-card-game-spiritforged-rumble-scrapper-alternate-art",
-            "collector_number": "089a/221"
           },
           {
             "id": "rift_666480",
@@ -7949,6 +7936,19 @@
             "collector_number": "085a/221"
           },
           {
+            "id": "rift_666590",
+            "name": "Rumble, Scrapper (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "SFD",
+            "set_name": "Spiritforged",
+            "usd": null,
+            "usd_foil": 1.08,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666590_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/666590/riftbound-league-of-legends-trading-card-game-spiritforged-rumble-scrapper-alternate-art",
+            "collector_number": "089a/221"
+          },
+          {
             "id": "rift_664892",
             "name": "Irelia, Graceful (Alternate Art)",
             "version": "Alternate Art",
@@ -7956,7 +7956,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 1.08,
+            "usd_foil": 1.06,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/664892_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/664892/riftbound-league-of-legends-trading-card-game-spiritforged-irelia-graceful-alternate-art",
             "collector_number": "141a/221"
@@ -7982,7 +7982,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 1.01,
+            "usd_foil": 0.97,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666601_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/666601/riftbound-league-of-legends-trading-card-game-spiritforged-sivir-mercenary-alternate-art",
             "collector_number": "143a/221"
@@ -8008,7 +8008,7 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 0.92,
+            "usd_foil": 0.91,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666719_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/666719/riftbound-league-of-legends-trading-card-game-spiritforged-lucian-gunslinger-alternate-art",
             "collector_number": "028a/221"
@@ -8027,32 +8027,6 @@
             "collector_number": "026a/221"
           },
           {
-            "id": "rift_664884",
-            "name": "Draven, Vanquisher (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "SFD",
-            "set_name": "Spiritforged",
-            "usd": null,
-            "usd_foil": 0.84,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/664884_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/664884/riftbound-league-of-legends-trading-card-game-spiritforged-draven-vanquisher-alternate-art",
-            "collector_number": "020a/221"
-          },
-          {
-            "id": "rift_665016",
-            "name": "Jax, Unrelenting (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "SFD",
-            "set_name": "Spiritforged",
-            "usd": null,
-            "usd_foil": 0.82,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/665016_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/665016/riftbound-league-of-legends-trading-card-game-spiritforged-jax-unrelenting-alternate-art",
-            "collector_number": "119a/221"
-          },
-          {
             "id": "rift_666446",
             "name": "Ezreal, Dashing (Alternate Art)",
             "version": "Alternate Art",
@@ -8066,17 +8040,30 @@
             "collector_number": "082a/221"
           },
           {
-            "id": "rift_665032",
-            "name": "Rek'Sai, Swarm Queen (Alternate Art)",
+            "id": "rift_665016",
+            "name": "Jax, Unrelenting (Alternate Art)",
             "version": "Alternate Art",
             "rarity": "Showcase",
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 0.67,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/665032_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/665032/riftbound-league-of-legends-trading-card-game-spiritforged-reksai-swarm-queen-alternate-art",
-            "collector_number": "170a/221"
+            "usd_foil": 0.81,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/665016_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/665016/riftbound-league-of-legends-trading-card-game-spiritforged-jax-unrelenting-alternate-art",
+            "collector_number": "119a/221"
+          },
+          {
+            "id": "rift_664884",
+            "name": "Draven, Vanquisher (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "SFD",
+            "set_name": "Spiritforged",
+            "usd": null,
+            "usd_foil": 0.8,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/664884_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/664884/riftbound-league-of-legends-trading-card-game-spiritforged-draven-vanquisher-alternate-art",
+            "collector_number": "020a/221"
           },
           {
             "id": "rift_666395",
@@ -8086,10 +8073,23 @@
             "set_code": "SFD",
             "set_name": "Spiritforged",
             "usd": null,
-            "usd_foil": 0.64,
+            "usd_foil": 0.66,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666395_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/666395/riftbound-league-of-legends-trading-card-game-spiritforged-azir-ascendant-alternate-art",
             "collector_number": "050a/221"
+          },
+          {
+            "id": "rift_665032",
+            "name": "Rek'Sai, Swarm Queen (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "SFD",
+            "set_name": "Spiritforged",
+            "usd": null,
+            "usd_foil": 0.66,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/665032_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/665032/riftbound-league-of-legends-trading-card-game-spiritforged-reksai-swarm-queen-alternate-art",
+            "collector_number": "170a/221"
           }
         ]
       },
@@ -8274,7 +8274,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 234.74,
+            "usd_foil": 235.16,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653093_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/653093/riftbound-league-of-legends-trading-card-game-origins-kaisa-daughter-of-the-void-overnumbered",
             "collector_number": "299/298"
@@ -8287,7 +8287,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 100.1,
+            "usd_foil": 99.78,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653113_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/653113/riftbound-league-of-legends-trading-card-game-origins-miss-fortune-bounty-hunter-overnumbered",
             "collector_number": "309/298"
@@ -8300,7 +8300,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 99.83,
+            "usd_foil": 98.83,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653097_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/653097/riftbound-league-of-legends-trading-card-game-origins-jinx-loose-cannon-overnumbered",
             "collector_number": "301/298"
@@ -8326,7 +8326,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 94.61,
+            "usd_foil": 94.57,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653111_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/653111/riftbound-league-of-legends-trading-card-game-origins-viktor-herald-of-the-arcane-overnumbered",
             "collector_number": "308/298"
@@ -8339,7 +8339,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 92.68,
+            "usd_foil": 91.33,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653109_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/653109/riftbound-league-of-legends-trading-card-game-origins-teemo-swift-scout-overnumbered",
             "collector_number": "307/298"
@@ -8365,7 +8365,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 64.47,
+            "usd_foil": 64.35,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652813_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652813/riftbound-league-of-legends-trading-card-game-origins-kaisa-survivor-alternate-art",
             "collector_number": "039a/298"
@@ -8378,7 +8378,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 62.87,
+            "usd_foil": 62.59,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653095_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/653095/riftbound-league-of-legends-trading-card-game-origins-volibear-relentless-storm-overnumbered",
             "collector_number": "300/298"
@@ -8404,7 +8404,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 54.34,
+            "usd_foil": 53.98,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653105_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/653105/riftbound-league-of-legends-trading-card-game-origins-yasuo-unforgiven-overnumbered",
             "collector_number": "305/298"
@@ -8430,7 +8430,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 10.58,
+            "usd_foil": 10.27,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653231_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/653231/riftbound-league-of-legends-trading-card-game-origins-ahri-inquisitive-alternate-art",
             "collector_number": "119a/298"
@@ -8443,7 +8443,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 9.27,
+            "usd_foil": 9.18,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652988_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652988/riftbound-league-of-legends-trading-card-game-origins-teemo-scout-alternate-art",
             "collector_number": "197a/298"
@@ -8456,7 +8456,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 9.22,
+            "usd_foil": 8.83,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652949_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652949/riftbound-league-of-legends-trading-card-game-origins-miss-fortune-captain-alternate-art",
             "collector_number": "162a/298"
@@ -8482,7 +8482,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 5.1,
+            "usd_foil": 5.08,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652857_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652857/riftbound-league-of-legends-trading-card-game-origins-lee-sin-ascetic-alternate-art",
             "collector_number": "078a/298"
@@ -8495,7 +8495,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 5.01,
+            "usd_foil": 4.96,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652818_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652818/riftbound-league-of-legends-trading-card-game-origins-calm-rune-a",
             "collector_number": "042a/298"
@@ -8508,7 +8508,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 4.81,
+            "usd_foil": 4.56,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652843_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652843/riftbound-league-of-legends-trading-card-game-origins-ahri-alluring-alternate-art",
             "collector_number": "066a/298"
@@ -8521,23 +8521,10 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 4.52,
+            "usd_foil": 4.51,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652952_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652952/riftbound-league-of-legends-trading-card-game-origins-sett-brawler-alternate-art",
             "collector_number": "164a/298"
-          },
-          {
-            "id": "rift_652870",
-            "name": "Mind Rune (A)",
-            "version": "A",
-            "rarity": "Showcase",
-            "set_code": "OGN",
-            "set_name": "Origins",
-            "usd": null,
-            "usd_foil": 4.44,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652870_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/652870/riftbound-league-of-legends-trading-card-game-origins-mind-rune-a",
-            "collector_number": "089a/298"
           },
           {
             "id": "rift_653008",
@@ -8547,10 +8534,23 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 4.23,
+            "usd_foil": 4.32,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653008_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/653008/riftbound-league-of-legends-trading-card-game-origins-order-rune-a",
             "collector_number": "214a/298"
+          },
+          {
+            "id": "rift_652870",
+            "name": "Mind Rune (A)",
+            "version": "A",
+            "rarity": "Showcase",
+            "set_code": "OGN",
+            "set_name": "Origins",
+            "usd": null,
+            "usd_foil": 4.29,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652870_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/652870/riftbound-league-of-legends-trading-card-game-origins-mind-rune-a",
+            "collector_number": "089a/298"
           },
           {
             "id": "rift_652859",
@@ -8560,7 +8560,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 4.19,
+            "usd_foil": 4.25,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652859_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652859/riftbound-league-of-legends-trading-card-game-origins-leona-zealot-alternate-art",
             "collector_number": "079a/298"
@@ -8573,7 +8573,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 3.7,
+            "usd_foil": 3.67,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652799_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652799/riftbound-league-of-legends-trading-card-game-origins-darius-trifarian-alternate-art",
             "collector_number": "027a/298"
@@ -8586,7 +8586,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 3.59,
+            "usd_foil": 3.66,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652904_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652904/riftbound-league-of-legends-trading-card-game-origins-teemo-strategist-alternate-art",
             "collector_number": "121a/298"
@@ -8599,7 +8599,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 3.4,
+            "usd_foil": 3.41,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652983_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652983/riftbound-league-of-legends-trading-card-game-origins-miss-fortune-buccaneer-alternate-art",
             "collector_number": "193a/298"
@@ -8625,7 +8625,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 3,
+            "usd_foil": 3.01,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652894_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652894/riftbound-league-of-legends-trading-card-game-origins-kaisa-evolutionary-alternate-art",
             "collector_number": "112a/298"
@@ -8638,23 +8638,10 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 2.7,
+            "usd_foil": 2.62,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652994_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652994/riftbound-league-of-legends-trading-card-game-origins-jinx-rebel-alternate-art",
             "collector_number": "202a/298"
-          },
-          {
-            "id": "rift_652778",
-            "name": "Fury Rune (A)",
-            "version": "A",
-            "rarity": "Showcase",
-            "set_code": "OGN",
-            "set_name": "Origins",
-            "usd": null,
-            "usd_foil": 2.67,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652778_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/652778/riftbound-league-of-legends-trading-card-game-origins-fury-rune-a",
-            "collector_number": "007a/298"
           },
           {
             "id": "rift_653044",
@@ -8670,6 +8657,32 @@
             "collector_number": "246a/298"
           },
           {
+            "id": "rift_652778",
+            "name": "Fury Rune (A)",
+            "version": "A",
+            "rarity": "Showcase",
+            "set_code": "OGN",
+            "set_name": "Origins",
+            "usd": null,
+            "usd_foil": 2.49,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652778_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/652778/riftbound-league-of-legends-trading-card-game-origins-fury-rune-a",
+            "collector_number": "007a/298"
+          },
+          {
+            "id": "rift_652816",
+            "name": "Volibear, Furious (Alternate Art)",
+            "version": "Alternate Art",
+            "rarity": "Showcase",
+            "set_code": "OGN",
+            "set_name": "Origins",
+            "usd": null,
+            "usd_foil": 2.24,
+            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652816_200w.jpg",
+            "purchase_url": "https://www.tcgplayer.com/product/652816/riftbound-league-of-legends-trading-card-game-origins-volibear-furious-alternate-art",
+            "collector_number": "041a/298"
+          },
+          {
             "id": "rift_652998",
             "name": "Yasuo, Windrider (Alternate Art)",
             "version": "Alternate Art",
@@ -8677,7 +8690,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 2.29,
+            "usd_foil": 2.21,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652998_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652998/riftbound-league-of-legends-trading-card-game-origins-yasuo-windrider-alternate-art",
             "collector_number": "205a/298"
@@ -8690,23 +8703,10 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 2.23,
+            "usd_foil": 2.18,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653033_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/653033/riftbound-league-of-legends-trading-card-game-origins-leona-determined-alternate-art",
             "collector_number": "238a/298"
-          },
-          {
-            "id": "rift_652816",
-            "name": "Volibear, Furious (Alternate Art)",
-            "version": "Alternate Art",
-            "rarity": "Showcase",
-            "set_code": "OGN",
-            "set_name": "Origins",
-            "usd": null,
-            "usd_foil": 2.23,
-            "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652816_200w.jpg",
-            "purchase_url": "https://www.tcgplayer.com/product/652816/riftbound-league-of-legends-trading-card-game-origins-volibear-furious-alternate-art",
-            "collector_number": "041a/298"
           },
           {
             "id": "rift_652803",
@@ -8716,7 +8716,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 2.14,
+            "usd_foil": 2.1,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652803_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652803/riftbound-league-of-legends-trading-card-game-origins-jinx-demolitionist-alternate-art",
             "collector_number": "030a/298"
@@ -8729,7 +8729,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 1.68,
+            "usd_foil": 1.65,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652854_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652854/riftbound-league-of-legends-trading-card-game-origins-yasuo-remorseful-alternate-art",
             "collector_number": "076a/298"
@@ -8742,7 +8742,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 1.27,
+            "usd_foil": 1.22,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653040_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/653040/riftbound-league-of-legends-trading-card-game-origins-darius-executioner-alternate-art",
             "collector_number": "243a/298"
@@ -8755,7 +8755,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 1.18,
+            "usd_foil": 1.21,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653230_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/653230/riftbound-league-of-legends-trading-card-game-origins-viktor-innovator-alternate-art",
             "collector_number": "117a/298"
@@ -8768,7 +8768,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 1,
+            "usd_foil": 0.97,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653036_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/653036/riftbound-league-of-legends-trading-card-game-origins-sett-kingpin-alternate-art",
             "collector_number": "240a/298"
@@ -8781,7 +8781,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 0.94,
+            "usd_foil": 0.89,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652944_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652944/riftbound-league-of-legends-trading-card-game-origins-volibear-imposing-alternate-art",
             "collector_number": "158a/298"
@@ -8794,7 +8794,7 @@
             "set_code": "OGN",
             "set_name": "Origins",
             "usd": null,
-            "usd_foil": 0.92,
+            "usd_foil": 0.88,
             "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/652936_200w.jpg",
             "purchase_url": "https://www.tcgplayer.com/product/652936/riftbound-league-of-legends-trading-card-game-origins-lee-sin-centered-alternate-art",
             "collector_number": "151a/298"
